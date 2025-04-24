@@ -1,0 +1,267 @@
+NAME                    INSTALLED                           FIXED-IN                                               TYPE          VULNERABILITY        SEVERITY   
+avro                    1.11.3                              1.11.4                                                 java-archive  GHSA-r7pg-v2c8-mfg3  Critical    
+avro                    1.7.7                               1.11.4                                                 java-archive  GHSA-r7pg-v2c8-mfg3  Critical    
+avro                    1.7.7                               1.11.3                                                 java-archive  GHSA-rhrv-645h-fjfh  High        
+commons-compress        1.21                                1.26.0                                                 java-archive  GHSA-4265-ccf5-phj5  Medium      
+commons-compress        1.21                                1.26.0                                                 java-archive  GHSA-4g9r-vxhx-9pgx  Medium      
+commons-configuration2  2.1.1                               2.10.1                                                 java-archive  GHSA-9w38-p64v-xpmv  Medium      
+commons-configuration2  2.1.1                               2.10.1                                                 java-archive  GHSA-xjp4-hw94-mvp5  Medium      
+commons-configuration2  2.8.0                               2.10.1                                                 java-archive  GHSA-9w38-p64v-xpmv  Medium      
+commons-configuration2  2.8.0                               2.10.1                                                 java-archive  GHSA-xjp4-hw94-mvp5  Medium      
+commons-io              2.11.0                              2.14.0                                                 java-archive  GHSA-78wr-2p64-hpwj  High        
+commons-io              2.8.0                               2.14.0                                                 java-archive  GHSA-78wr-2p64-hpwj  High        
+commons-net             3.6                                 3.9.0                                                  java-archive  GHSA-cgp8-4m63-fhh5  Medium      
+coreutils               9.4-3ubuntu6                                                                               deb           CVE-2016-2781        Low         
+curl                    8.5.0-2ubuntu10.4                   8.5.0-2ubuntu10.6                                      deb           CVE-2024-11053       Low         
+curl                    8.5.0-2ubuntu10.4                   8.5.0-2ubuntu10.5                                      deb           CVE-2024-9681        Low         
+curl                    8.5.0-2ubuntu10.4                                                                          deb           CVE-2025-0167        Low         
+dirmngr                 2.4.4-2ubuntu17                     2.4.4-2ubuntu17.2                                      deb           CVE-2025-30258       Medium      
+dirmngr                 2.4.4-2ubuntu17                                                                            deb           CVE-2022-3219        Low         
+dnsjava                 2.1.7                               3.6.0                                                  java-archive  GHSA-cfxw-4h78-h7fw  High        
+gnupg                   2.4.4-2ubuntu17                     2.4.4-2ubuntu17.2                                      deb           CVE-2025-30258       Medium      
+gnupg                   2.4.4-2ubuntu17                                                                            deb           CVE-2022-3219        Low         
+gnupg-utils             2.4.4-2ubuntu17                     2.4.4-2ubuntu17.2                                      deb           CVE-2025-30258       Medium      
+gnupg-utils             2.4.4-2ubuntu17                                                                            deb           CVE-2022-3219        Low         
+golang.org/x/sys        v0.0.0-20200905004654-be1d3432aa8f  0.0.0-20220412211240-33da011f77ad                      go-module     GHSA-p782-xgp4-8hr8  Medium      
+google-oauth-client     1.31.5                              1.33.3                                                 java-archive  GHSA-hw42-3568-wj87  High        
+gopkg.in/yaml.v3        v3.0.0-20200615113413-eeeca48fe776  3.0.0-20220521103104-8f96da9f5d5e                      go-module     GHSA-hp87-p4gw-j4gq  High        
+gpg                     2.4.4-2ubuntu17                     2.4.4-2ubuntu17.2                                      deb           CVE-2025-30258       Medium      
+gpg                     2.4.4-2ubuntu17                                                                            deb           CVE-2022-3219        Low         
+gpg-agent               2.4.4-2ubuntu17                     2.4.4-2ubuntu17.2                                      deb           CVE-2025-30258       Medium      
+gpg-agent               2.4.4-2ubuntu17                                                                            deb           CVE-2022-3219        Low         
+gpgconf                 2.4.4-2ubuntu17                     2.4.4-2ubuntu17.2                                      deb           CVE-2025-30258       Medium      
+gpgconf                 2.4.4-2ubuntu17                                                                            deb           CVE-2022-3219        Low         
+gpgsm                   2.4.4-2ubuntu17                     2.4.4-2ubuntu17.2                                      deb           CVE-2025-30258       Medium      
+gpgsm                   2.4.4-2ubuntu17                                                                            deb           CVE-2022-3219        Low         
+gpgv                    2.4.4-2ubuntu17                     2.4.4-2ubuntu17.2                                      deb           CVE-2025-30258       Medium      
+gpgv                    2.4.4-2ubuntu17                                                                            deb           CVE-2022-3219        Low         
+gson                    2.8.7                               2.8.9                                                  java-archive  GHSA-4jrv-ppp4-jm57  High        
+guava                   14.0.1                              32.0.0-android                                         java-archive  GHSA-7g45-4rm6-3mm3  Medium      
+guava                   14.0.1                              24.1.1-android                                         java-archive  GHSA-mvr2-9pj6-7w5j  Medium      
+guava                   14.0.1                              32.0.0-android                                         java-archive  GHSA-5mg8-w23w-74h3  Low         
+guava                   30.1.1-android                      32.0.0-android                                         java-archive  GHSA-7g45-4rm6-3mm3  Medium      
+guava                   30.1.1-android                      32.0.0-android                                         java-archive  GHSA-5mg8-w23w-74h3  Low         
+guava                   30.1.1-jre                          32.0.0-android                                         java-archive  GHSA-7g45-4rm6-3mm3  Medium      
+guava                   30.1.1-jre                          32.0.0-android                                         java-archive  GHSA-5mg8-w23w-74h3  Low         
+hadoop-common           3.3.2                               3.3.3                                                  java-archive  GHSA-8wm5-8h9c-47pc  Critical    
+hadoop-common           3.3.2                               3.4.0                                                  java-archive  GHSA-f5fw-25gw-5m92  Low         
+hadoop-common           3.3.5                               3.4.0                                                  java-archive  GHSA-f5fw-25gw-5m92  Low         
+hadoop-common           3.3.6                               3.4.0                                                  java-archive  GHSA-f5fw-25gw-5m92  Low         
+jackson-databind        2.13.0                              2.13.1                                                 java-archive  GHSA-3x8x-79m2-3w2w  High        
+jackson-databind        2.13.0                              2.13.2.1                                               java-archive  GHSA-57j2-w4cx-62h2  High        
+jackson-databind        2.13.0                              2.13.4.2                                               java-archive  GHSA-jjjh-jjxp-wpff  High        
+jackson-databind        2.13.0                              2.13.4                                                 java-archive  GHSA-rgv9-q543-rqg4  High        
+jetty-http              9.4.43.v20210629                    9.4.52                                                 java-archive  GHSA-hmr7-m48g-48f6  Medium      
+jetty-http              9.4.43.v20210629                    12.0.12                                                java-archive  GHSA-qh8g-58pp-2wxh  Medium      
+jetty-http              9.4.43.v20210629                    9.4.47                                                 java-archive  GHSA-cj7v-27pg-wf7q  Low         
+jetty-http              9.4.48.v20220622                    9.4.52                                                 java-archive  GHSA-hmr7-m48g-48f6  Medium      
+jetty-http              9.4.48.v20220622                    12.0.12                                                java-archive  GHSA-qh8g-58pp-2wxh  Medium      
+jetty-http              9.4.54.v20240208                    12.0.12                                                java-archive  GHSA-qh8g-58pp-2wxh  Medium      
+jetty-http              9.4.55.v20240627                    12.0.12                                                java-archive  GHSA-qh8g-58pp-2wxh  Medium      
+jetty-server            9.4.48.v20220622                    9.4.56                                                 java-archive  GHSA-g8m5-722r-8whq  Medium      
+jetty-server            9.4.48.v20220622                    9.4.51.v20230217                                       java-archive  GHSA-qw69-rqj8-6qw8  Medium      
+jetty-server            9.4.48.v20220622                    9.4.51.v20230217                                       java-archive  GHSA-p26g-97m4-6q7c  Low         
+jetty-server            9.4.54.v20240208                    9.4.56                                                 java-archive  GHSA-g8m5-722r-8whq  Medium      
+jetty-servlets          9.4.48.v20220622                    9.4.54                                                 java-archive  GHSA-j26w-f9rq-mr2q  Medium      
+jetty-servlets          9.4.48.v20220622                    9.4.52                                                 java-archive  GHSA-3gh6-v5v9-6v9j  Low         
+jetty-xml               9.4.43.v20210629                    9.4.52.v20230823                                       java-archive  GHSA-58qw-p7qm-5rvh  Low         
+json-smart              1.3.2                               2.4.9                                                  java-archive  GHSA-493p-pfq6-5258  High        
+json-smart              1.3.2                               1.3.3                                                  java-archive  GHSA-fg2v-w576-w4v3  High        
+keyboxd                 2.4.4-2ubuntu17                     2.4.4-2ubuntu17.2                                      deb           CVE-2025-30258       Medium      
+keyboxd                 2.4.4-2ubuntu17                                                                            deb           CVE-2022-3219        Low         
+krb5-user               1.20.1-6ubuntu2.1                   1.20.1-6ubuntu2.5                                      deb           CVE-2024-26462       Medium      
+krb5-user               1.20.1-6ubuntu2.1                   1.20.1-6ubuntu2.3                                      deb           CVE-2024-3596        Medium      
+krb5-user               1.20.1-6ubuntu2.1                   1.20.1-6ubuntu2.5                                      deb           CVE-2025-24528       Medium      
+krb5-user               1.20.1-6ubuntu2.1                   1.20.1-6ubuntu2.5                                      deb           CVE-2024-26461       Low         
+krb5-user               1.20.1-6ubuntu2.1                   1.20.1-6ubuntu2.5                                      deb           CVE-2024-26458       Negligible  
+libc-bin                2.39-0ubuntu8.3                     2.39-0ubuntu8.4                                        deb           CVE-2025-0395        Medium      
+libc-bin                2.39-0ubuntu8.3                                                                            deb           CVE-2016-20013       Negligible  
+libc6                   2.39-0ubuntu8.3                     2.39-0ubuntu8.4                                        deb           CVE-2025-0395        Medium      
+libc6                   2.39-0ubuntu8.3                                                                            deb           CVE-2016-20013       Negligible  
+libcap2                 1:2.66-5ubuntu2                     1:2.66-5ubuntu2.2                                      deb           CVE-2025-1390        Medium      
+libcurl4t64             8.5.0-2ubuntu10.4                   8.5.0-2ubuntu10.6                                      deb           CVE-2024-11053       Low         
+libcurl4t64             8.5.0-2ubuntu10.4                   8.5.0-2ubuntu10.5                                      deb           CVE-2024-9681        Low         
+libcurl4t64             8.5.0-2ubuntu10.4                                                                          deb           CVE-2025-0167        Low         
+libexpat1               2.6.1-2ubuntu0.1                    2.6.1-2ubuntu0.2                                       deb           CVE-2024-50602       Medium      
+libexpat1               2.6.1-2ubuntu0.1                                                                           deb           CVE-2024-8176        Medium      
+libfreetype6            2.13.2+dfsg-1build3                                                                        deb           CVE-2025-23022       Medium      
+libgcrypt20             1.10.3-2build1                                                                             deb           CVE-2024-2236        Low         
+libgnutls30t64          3.8.3-1.1ubuntu3.2                  3.8.3-1.1ubuntu3.3                                     deb           CVE-2024-12243       Medium      
+libgssapi-krb5-2        1.20.1-6ubuntu2.1                   1.20.1-6ubuntu2.5                                      deb           CVE-2024-26462       Medium      
+libgssapi-krb5-2        1.20.1-6ubuntu2.1                   1.20.1-6ubuntu2.3                                      deb           CVE-2024-3596        Medium      
+libgssapi-krb5-2        1.20.1-6ubuntu2.1                   1.20.1-6ubuntu2.5                                      deb           CVE-2025-24528       Medium      
+libgssapi-krb5-2        1.20.1-6ubuntu2.1                   1.20.1-6ubuntu2.5                                      deb           CVE-2024-26461       Low         
+libgssapi-krb5-2        1.20.1-6ubuntu2.1                   1.20.1-6ubuntu2.5                                      deb           CVE-2024-26458       Negligible  
+libgssrpc4t64           1.20.1-6ubuntu2.1                   1.20.1-6ubuntu2.5                                      deb           CVE-2024-26462       Medium      
+libgssrpc4t64           1.20.1-6ubuntu2.1                   1.20.1-6ubuntu2.3                                      deb           CVE-2024-3596        Medium      
+libgssrpc4t64           1.20.1-6ubuntu2.1                   1.20.1-6ubuntu2.5                                      deb           CVE-2025-24528       Medium      
+libgssrpc4t64           1.20.1-6ubuntu2.1                   1.20.1-6ubuntu2.5                                      deb           CVE-2024-26461       Low         
+libgssrpc4t64           1.20.1-6ubuntu2.1                   1.20.1-6ubuntu2.5                                      deb           CVE-2024-26458       Negligible  
+libk5crypto3            1.20.1-6ubuntu2.1                   1.20.1-6ubuntu2.5                                      deb           CVE-2024-26462       Medium      
+libk5crypto3            1.20.1-6ubuntu2.1                   1.20.1-6ubuntu2.3                                      deb           CVE-2024-3596        Medium      
+libk5crypto3            1.20.1-6ubuntu2.1                   1.20.1-6ubuntu2.5                                      deb           CVE-2025-24528       Medium      
+libk5crypto3            1.20.1-6ubuntu2.1                   1.20.1-6ubuntu2.5                                      deb           CVE-2024-26461       Low         
+libk5crypto3            1.20.1-6ubuntu2.1                   1.20.1-6ubuntu2.5                                      deb           CVE-2024-26458       Negligible  
+libkadm5clnt-mit12      1.20.1-6ubuntu2.1                   1.20.1-6ubuntu2.5                                      deb           CVE-2024-26462       Medium      
+libkadm5clnt-mit12      1.20.1-6ubuntu2.1                   1.20.1-6ubuntu2.3                                      deb           CVE-2024-3596        Medium      
+libkadm5clnt-mit12      1.20.1-6ubuntu2.1                   1.20.1-6ubuntu2.5                                      deb           CVE-2025-24528       Medium      
+libkadm5clnt-mit12      1.20.1-6ubuntu2.1                   1.20.1-6ubuntu2.5                                      deb           CVE-2024-26461       Low         
+libkadm5clnt-mit12      1.20.1-6ubuntu2.1                   1.20.1-6ubuntu2.5                                      deb           CVE-2024-26458       Negligible  
+libkadm5srv-mit12       1.20.1-6ubuntu2.1                   1.20.1-6ubuntu2.5                                      deb           CVE-2024-26462       Medium      
+libkadm5srv-mit12       1.20.1-6ubuntu2.1                   1.20.1-6ubuntu2.3                                      deb           CVE-2024-3596        Medium      
+libkadm5srv-mit12       1.20.1-6ubuntu2.1                   1.20.1-6ubuntu2.5                                      deb           CVE-2025-24528       Medium      
+libkadm5srv-mit12       1.20.1-6ubuntu2.1                   1.20.1-6ubuntu2.5                                      deb           CVE-2024-26461       Low         
+libkadm5srv-mit12       1.20.1-6ubuntu2.1                   1.20.1-6ubuntu2.5                                      deb           CVE-2024-26458       Negligible  
+libkdb5-10t64           1.20.1-6ubuntu2.1                   1.20.1-6ubuntu2.5                                      deb           CVE-2024-26462       Medium      
+libkdb5-10t64           1.20.1-6ubuntu2.1                   1.20.1-6ubuntu2.3                                      deb           CVE-2024-3596        Medium      
+libkdb5-10t64           1.20.1-6ubuntu2.1                   1.20.1-6ubuntu2.5                                      deb           CVE-2025-24528       Medium      
+libkdb5-10t64           1.20.1-6ubuntu2.1                   1.20.1-6ubuntu2.5                                      deb           CVE-2024-26461       Low         
+libkdb5-10t64           1.20.1-6ubuntu2.1                   1.20.1-6ubuntu2.5                                      deb           CVE-2024-26458       Negligible  
+libkrb5-3               1.20.1-6ubuntu2.1                   1.20.1-6ubuntu2.5                                      deb           CVE-2024-26462       Medium      
+libkrb5-3               1.20.1-6ubuntu2.1                   1.20.1-6ubuntu2.3                                      deb           CVE-2024-3596        Medium      
+libkrb5-3               1.20.1-6ubuntu2.1                   1.20.1-6ubuntu2.5                                      deb           CVE-2025-24528       Medium      
+libkrb5-3               1.20.1-6ubuntu2.1                   1.20.1-6ubuntu2.5                                      deb           CVE-2024-26461       Low         
+libkrb5-3               1.20.1-6ubuntu2.1                   1.20.1-6ubuntu2.5                                      deb           CVE-2024-26458       Negligible  
+libkrb5support0         1.20.1-6ubuntu2.1                   1.20.1-6ubuntu2.5                                      deb           CVE-2024-26462       Medium      
+libkrb5support0         1.20.1-6ubuntu2.1                   1.20.1-6ubuntu2.3                                      deb           CVE-2024-3596        Medium      
+libkrb5support0         1.20.1-6ubuntu2.1                   1.20.1-6ubuntu2.5                                      deb           CVE-2025-24528       Medium      
+libkrb5support0         1.20.1-6ubuntu2.1                   1.20.1-6ubuntu2.5                                      deb           CVE-2024-26461       Low         
+libkrb5support0         1.20.1-6ubuntu2.1                   1.20.1-6ubuntu2.5                                      deb           CVE-2024-26458       Negligible  
+liblzma5                5.6.1+really5.4.5-1build0.1         5.6.1+really5.4.5-1ubuntu0.2                           deb           CVE-2025-31115       Medium      
+libpam-modules          1.5.3-5ubuntu5.1                                                                           deb           CVE-2024-10041       Medium      
+libpam-modules          1.5.3-5ubuntu5.1                                                                           deb           CVE-2024-10963       Medium      
+libpam-modules-bin      1.5.3-5ubuntu5.1                                                                           deb           CVE-2024-10041       Medium      
+libpam-modules-bin      1.5.3-5ubuntu5.1                                                                           deb           CVE-2024-10963       Medium      
+libpam-runtime          1.5.3-5ubuntu5.1                                                                           deb           CVE-2024-10041       Medium      
+libpam-runtime          1.5.3-5ubuntu5.1                                                                           deb           CVE-2024-10963       Medium      
+libpam0g                1.5.3-5ubuntu5.1                                                                           deb           CVE-2024-10041       Medium      
+libpam0g                1.5.3-5ubuntu5.1                                                                           deb           CVE-2024-10963       Medium      
+libpng16-16t64          1.6.43-5build1                                                                             deb           CVE-2022-3857        Low         
+libssl3t64              3.0.13-0ubuntu3.4                   3.0.13-0ubuntu3.5                                      deb           CVE-2024-13176       Low         
+libssl3t64              3.0.13-0ubuntu3.4                                                                          deb           CVE-2024-41996       Low         
+libssl3t64              3.0.13-0ubuntu3.4                   3.0.13-0ubuntu3.5                                      deb           CVE-2024-9143        Low         
+libtasn1-6              4.19.0-3build1                      4.19.0-3ubuntu0.24.04.1                                deb           CVE-2024-12133       Medium      
+locales                 2.39-0ubuntu8.3                     2.39-0ubuntu8.4                                        deb           CVE-2025-0395        Medium      
+locales                 2.39-0ubuntu8.3                                                                            deb           CVE-2016-20013       Negligible  
+logback-core            1.2.13                              1.3.15                                                 java-archive  GHSA-pr98-23f8-jwxv  Medium      
+logback-core            1.2.13                              1.3.15                                                 java-archive  GHSA-6v67-2wr5-gvf4  Low         
+login                   1:4.13+dfsg1-4ubuntu3.2                                                                    deb           CVE-2024-56433       Low         
+netty-common            4.1.108.Final                       4.1.118.Final                                          java-archive  GHSA-389x-839f-4rhx  Medium      
+netty-common            4.1.108.Final                       4.1.115.Final                                          java-archive  GHSA-xq3w-v528-46rv  Medium      
+netty-common            4.1.112.Final                       4.1.118.Final                                          java-archive  GHSA-389x-839f-4rhx  Medium      
+netty-common            4.1.112.Final                       4.1.115.Final                                          java-archive  GHSA-xq3w-v528-46rv  Medium      
+netty-handler           4.1.108.Final                       4.1.118.Final                                          java-archive  GHSA-4g8c-wm8x-jfhw  High        
+netty-handler           4.1.112.Final                       4.1.118.Final                                          java-archive  GHSA-4g8c-wm8x-jfhw  High        
+nimbus-jose-jwt         9.8.1                               9.37.2                                                 java-archive  GHSA-gvpg-vgmx-xg6w  High        
+okio                    1.6.0                               1.17.6                                                 java-archive  GHSA-w33c-445m-f8w7  Medium      
+openjdk                 11.0.25+9                           1.8.0_441, 8.0.441, *11.0.26, 17.0.14, 21.0.6, 23.0.2  binary        CVE-2025-21502       Medium      
+openssl                 3.0.13-0ubuntu3.4                   3.0.13-0ubuntu3.5                                      deb           CVE-2024-13176       Low         
+openssl                 3.0.13-0ubuntu3.4                                                                          deb           CVE-2024-41996       Low         
+openssl                 3.0.13-0ubuntu3.4                   3.0.13-0ubuntu3.5                                      deb           CVE-2024-9143        Low         
+passwd                  1:4.13+dfsg1-4ubuntu3.2                                                                    deb           CVE-2024-56433       Low         
+protobuf-java           2.5.0                               3.16.3                                                 java-archive  GHSA-4gg5-vx3j-xwc7  High        
+protobuf-java           2.5.0                               3.25.5                                                 java-archive  GHSA-735f-pc8j-v9w8  High        
+protobuf-java           2.5.0                               3.15.0                                                 java-archive  GHSA-77rm-9x9h-xj3g  High        
+protobuf-java           2.5.0                               3.16.3                                                 java-archive  GHSA-g5ww-5jh7-63cx  High        
+protobuf-java           2.5.0                               3.16.1                                                 java-archive  GHSA-wrvw-hg22-4m67  High        
+protobuf-java           2.5.0                               3.16.3                                                 java-archive  GHSA-h4h5-3hr4-j3g2  Medium      
+protobuf-java           3.17.3                              3.19.6                                                 java-archive  GHSA-4gg5-vx3j-xwc7  High        
+protobuf-java           3.17.3                              3.25.5                                                 java-archive  GHSA-735f-pc8j-v9w8  High        
+protobuf-java           3.17.3                              3.19.6                                                 java-archive  GHSA-g5ww-5jh7-63cx  High        
+protobuf-java           3.17.3                              3.19.6                                                 java-archive  GHSA-h4h5-3hr4-j3g2  Medium      
+protobuf-java           3.7.1                               3.16.3                                                 java-archive  GHSA-4gg5-vx3j-xwc7  High        
+protobuf-java           3.7.1                               3.25.5                                                 java-archive  GHSA-735f-pc8j-v9w8  High        
+protobuf-java           3.7.1                               3.15.0                                                 java-archive  GHSA-77rm-9x9h-xj3g  High        
+protobuf-java           3.7.1                               3.16.3                                                 java-archive  GHSA-g5ww-5jh7-63cx  High        
+protobuf-java           3.7.1                               3.16.1                                                 java-archive  GHSA-wrvw-hg22-4m67  High        
+protobuf-java           3.7.1                               3.16.3                                                 java-archive  GHSA-h4h5-3hr4-j3g2  Medium      
+spark-core_2.12         3.3.2                               3.3.3                                                  java-archive  GHSA-329j-jfvr-rhr6  Critical    
+stdlib                  go1.15.1                            *1.16.9, 1.17.2                                        go-module     CVE-2021-38297       Critical    
+stdlib                  go1.15.1                            *1.16.14, 1.17.7                                       go-module     CVE-2022-23806       Critical    
+stdlib                  go1.15.1                            1.21.0-0                                               go-module     CVE-2023-24531       Critical    
+stdlib                  go1.15.1                            *1.19.8, 1.20.3                                        go-module     CVE-2023-24538       Critical    
+stdlib                  go1.15.1                            *1.19.9, 1.20.4                                        go-module     CVE-2023-24540       Critical    
+stdlib                  go1.15.1                            *1.19.10, 1.20.5                                       go-module     CVE-2023-29402       Critical    
+stdlib                  go1.15.1                            *1.19.10, 1.20.5                                       go-module     CVE-2023-29404       Critical    
+stdlib                  go1.15.1                            *1.19.10, 1.20.5                                       go-module     CVE-2023-29405       Critical    
+stdlib                  go1.15.1                            *1.21.11, 1.22.4                                       go-module     CVE-2024-24790       Critical    
+stdlib                  go1.15.1                            1.14.12, *1.15.5                                       go-module     CVE-2020-28362       High        
+stdlib                  go1.15.1                            1.14.12, *1.15.5                                       go-module     CVE-2020-28366       High        
+stdlib                  go1.15.1                            1.14.12, *1.15.5                                       go-module     CVE-2020-28367       High        
+stdlib                  go1.15.1                            *1.15.9, 1.16.1                                        go-module     CVE-2021-27918       High        
+stdlib                  go1.15.1                            1.17                                                   go-module     CVE-2021-29923       High        
+stdlib                  go1.15.1                            *1.15.13, 1.16.5                                       go-module     CVE-2021-33195       High        
+stdlib                  go1.15.1                            *1.15.13, 1.16.5                                       go-module     CVE-2021-33196       High        
+stdlib                  go1.15.1                            *1.15.13, 1.16.5                                       go-module     CVE-2021-33198       High        
+stdlib                  go1.15.1                            *1.16.8, 1.17.1                                        go-module     CVE-2021-39293       High        
+stdlib                  go1.15.1                            *1.16.10, 1.17.3                                       go-module     CVE-2021-41771       High        
+stdlib                  go1.15.1                            *1.16.10, 1.17.3                                       go-module     CVE-2021-41772       High        
+stdlib                  go1.15.1                            *1.16.12, 1.17.5                                       go-module     CVE-2021-44716       High        
+stdlib                  go1.15.1                            *1.16.14, 1.17.7                                       go-module     CVE-2022-23772       High        
+stdlib                  go1.15.1                            *1.16.14, 1.17.7                                       go-module     CVE-2022-23773       High        
+stdlib                  go1.15.1                            *1.17.9, 1.18.1                                        go-module     CVE-2022-24675       High        
+stdlib                  go1.15.1                            *1.16.15, 1.17.8                                       go-module     CVE-2022-24921       High        
+stdlib                  go1.15.1                            1.18.6                                                 go-module     CVE-2022-27664       High        
+stdlib                  go1.15.1                            *1.17.12, 1.18.4                                       go-module     CVE-2022-28131       High        
+stdlib                  go1.15.1                            *1.17.9, 1.18.1                                        go-module     CVE-2022-28327       High        
+stdlib                  go1.15.1                            *1.18.7, 1.19.2                                        go-module     CVE-2022-2879        High        
+stdlib                  go1.15.1                            *1.18.7, 1.19.2                                        go-module     CVE-2022-2880        High        
+stdlib                  go1.15.1                            *1.17.11, 1.18.3                                       go-module     CVE-2022-30580       High        
+stdlib                  go1.15.1                            *1.17.12, 1.18.4                                       go-module     CVE-2022-30630       High        
+stdlib                  go1.15.1                            *1.17.12, 1.18.4                                       go-module     CVE-2022-30631       High        
+stdlib                  go1.15.1                            *1.17.12, 1.18.4                                       go-module     CVE-2022-30632       High        
+stdlib                  go1.15.1                            *1.17.12, 1.18.4                                       go-module     CVE-2022-30633       High        
+stdlib                  go1.15.1                            *1.17.12, 1.18.4                                       go-module     CVE-2022-30635       High        
+stdlib                  go1.15.1                            *1.17.13, 1.18.5                                       go-module     CVE-2022-32189       High        
+stdlib                  go1.15.1                            *1.18.7, 1.19.2                                        go-module     CVE-2022-41715       High        
+stdlib                  go1.15.1                            1.19.6                                                 go-module     CVE-2022-41723       High        
+stdlib                  go1.15.1                            1.19.6                                                 go-module     CVE-2022-41724       High        
+stdlib                  go1.15.1                            1.19.6                                                 go-module     CVE-2022-41725       High        
+stdlib                  go1.15.1                            *1.19.8, 1.20.3                                        go-module     CVE-2023-24534       High        
+stdlib                  go1.15.1                            *1.19.8, 1.20.3                                        go-module     CVE-2023-24536       High        
+stdlib                  go1.15.1                            *1.19.8, 1.20.3                                        go-module     CVE-2023-24537       High        
+stdlib                  go1.15.1                            *1.19.9, 1.20.4                                        go-module     CVE-2023-24539       High        
+stdlib                  go1.15.1                            *1.19.9, 1.20.4                                        go-module     CVE-2023-29400       High        
+stdlib                  go1.15.1                            *1.19.10, 1.20.5                                       go-module     CVE-2023-29403       High        
+stdlib                  go1.15.1                            *1.20.9, 1.21.2                                        go-module     CVE-2023-39323       High        
+stdlib                  go1.15.1                            *1.20.10, 1.21.3                                       go-module     CVE-2023-44487       High        
+stdlib                  go1.15.1                            *1.20.12, 1.21.5                                       go-module     CVE-2023-45285       High        
+stdlib                  go1.15.1                            1.20.0                                                 go-module     CVE-2023-45287       High        
+stdlib                  go1.15.1                            *1.21.9, 1.22.2                                        go-module     CVE-2023-45288       High        
+stdlib                  go1.15.1                            *1.21.8, 1.22.1                                        go-module     CVE-2024-24784       High        
+stdlib                  go1.15.1                            *1.21.12, 1.22.5                                       go-module     CVE-2024-24791       High        
+stdlib                  go1.15.1                            *1.22.7, 1.23.1                                        go-module     CVE-2024-34156       High        
+stdlib                  go1.15.1                            *1.22.7, 1.23.1                                        go-module     CVE-2024-34158       High        
+stdlib                  go1.15.1                            1.17                                                   go-module     CVE-2020-29509       Medium      
+stdlib                  go1.15.1                            1.17                                                   go-module     CVE-2020-29511       Medium      
+stdlib                  go1.15.1                            1.14.14, *1.15.7                                       go-module     CVE-2021-3114        Medium      
+stdlib                  go1.15.1                            *1.15.12, 1.16.4                                       go-module     CVE-2021-31525       Medium      
+stdlib                  go1.15.1                            *1.15.13, 1.16.5                                       go-module     CVE-2021-33197       Medium      
+stdlib                  go1.15.1                            *1.15.14, 1.16.6                                       go-module     CVE-2021-34558       Medium      
+stdlib                  go1.15.1                            *1.15.15, 1.16.7                                       go-module     CVE-2021-36221       Medium      
+stdlib                  go1.15.1                            *1.16.12, 1.17.5                                       go-module     CVE-2021-44717       Medium      
+stdlib                  go1.15.1                            *1.17.12, 1.18.4                                       go-module     CVE-2022-1705        Medium      
+stdlib                  go1.15.1                            *1.17.12, 1.18.4                                       go-module     CVE-2022-1962        Medium      
+stdlib                  go1.15.1                            *1.17.10, 1.18.2                                       go-module     CVE-2022-29526       Medium      
+stdlib                  go1.15.1                            *1.17.12, 1.18.4                                       go-module     CVE-2022-32148       Medium      
+stdlib                  go1.15.1                            *1.18.9, 1.19.4                                        go-module     CVE-2022-41717       Medium      
+stdlib                  go1.15.1                            *1.19.7, 1.20.2                                        go-module     CVE-2023-24532       Medium      
+stdlib                  go1.15.1                            *1.19.11, 1.20.6                                       go-module     CVE-2023-29406       Medium      
+stdlib                  go1.15.1                            *1.19.12, 1.20.7                                       go-module     CVE-2023-29409       Medium      
+stdlib                  go1.15.1                            *1.20.8, 1.21.1                                        go-module     CVE-2023-39318       Medium      
+stdlib                  go1.15.1                            *1.20.8, 1.21.1                                        go-module     CVE-2023-39319       Medium      
+stdlib                  go1.15.1                            *1.20.12, 1.21.5                                       go-module     CVE-2023-39326       Medium      
+stdlib                  go1.15.1                            *1.21.8, 1.22.1                                        go-module     CVE-2023-45289       Medium      
+stdlib                  go1.15.1                            *1.21.8, 1.22.1                                        go-module     CVE-2023-45290       Medium      
+stdlib                  go1.15.1                            *1.21.8, 1.22.1                                        go-module     CVE-2024-24783       Medium      
+stdlib                  go1.15.1                            *1.21.8, 1.22.1                                        go-module     CVE-2024-24785       Medium      
+stdlib                  go1.15.1                            *1.21.10, 1.22.3                                       go-module     CVE-2024-24787       Medium      
+stdlib                  go1.15.1                            *1.21.11, 1.22.4                                       go-module     CVE-2024-24789       Medium      
+stdlib                  go1.15.1                            *1.22.7, 1.23.1                                        go-module     CVE-2024-34155       Medium      
+stdlib                  go1.15.1                            *1.22.11, 1.23.5, 1.24.0-rc.2                          go-module     CVE-2024-45336       Medium      
+stdlib                  go1.15.1                            *1.22.11, 1.23.5, 1.24.0-rc.2                          go-module     CVE-2024-45341       Medium      
+stdlib                  go1.15.1                            *1.22.12, 1.23.6, 1.24.0-rc.3                          go-module     CVE-2025-22866       Medium      
+stdlib                  go1.15.1                            *1.17.11, 1.18.3                                       go-module     CVE-2022-30629       Low         
+wget                    1.21.4-1ubuntu4.1                                                                          deb           CVE-2021-31879       Medium      
+wget                    1.21.4-1ubuntu4.1                                                                          deb           CVE-2024-10524       Low         
+woodstox-core           5.3.0                               5.4.0                                                  java-archive  GHSA-3f7h-mf4q-vrm4  Medium

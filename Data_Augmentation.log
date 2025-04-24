@@ -1,0 +1,232 @@
+2025-04-24 15:40:22,680 - INFO - Loading RDF data from Testdataset.rdf
+2025-04-24 15:40:22,701 - INFO - Extracting company URIs from the graph
+2025-04-24 15:40:22,727 - INFO - Found 100 companies
+2025-04-24 15:40:22,728 - INFO - Generating synthetic ownership edges
+2025-04-24 15:51:44,865 - INFO - Loading RDF data from Testdataset.rdf
+2025-04-24 15:51:44,886 - INFO - Extracting company URIs from the graph
+2025-04-24 15:51:44,914 - INFO - Found 100 companies
+2025-04-24 15:51:44,915 - INFO - Generating synthetic ownership edges
+2025-04-24 15:51:44,915 - ERROR - Failed to add triples for ex_comp:70 -> ex_comp:50: name 'URIRef' is not defined
+2025-04-24 15:51:44,916 - ERROR - Failed to add triples for ex_comp:70 -> ex_comp:40: name 'URIRef' is not defined
+2025-04-24 15:51:44,916 - ERROR - Failed to add triples for ex_comp:58 -> ex_comp:2: name 'URIRef' is not defined
+2025-04-24 15:51:44,916 - ERROR - Failed to add triples for ex_comp:79 -> ex_comp:85: name 'URIRef' is not defined
+2025-04-24 15:51:44,916 - ERROR - Failed to add triples for ex_comp:79 -> ex_comp:53: name 'URIRef' is not defined
+2025-04-24 15:51:44,917 - ERROR - Failed to add triples for ex_comp:80 -> ex_comp:39: name 'URIRef' is not defined
+2025-04-24 15:51:44,917 - ERROR - Failed to add triples for ex_comp:80 -> ex_comp:22: name 'URIRef' is not defined
+2025-04-24 15:51:44,917 - ERROR - Failed to add triples for ex_comp:55 -> ex_comp:50: name 'URIRef' is not defined
+2025-04-24 15:51:44,918 - ERROR - Failed to add triples for ex_comp:55 -> ex_comp:34: name 'URIRef' is not defined
+2025-04-24 15:51:44,918 - ERROR - Failed to add triples for ex_comp:55 -> ex_comp:46: name 'URIRef' is not defined
+2025-04-24 15:51:44,918 - ERROR - Failed to add triples for ex_comp:91 -> ex_comp:68: name 'URIRef' is not defined
+2025-04-24 15:51:44,918 - ERROR - Failed to add triples for ex_comp:91 -> ex_comp:5: name 'URIRef' is not defined
+2025-04-24 15:51:44,919 - ERROR - Failed to add triples for ex_comp:91 -> ex_comp:81: name 'URIRef' is not defined
+2025-04-24 15:51:44,919 - ERROR - Failed to add triples for ex_comp:7 -> ex_comp:85: name 'URIRef' is not defined
+2025-04-24 15:51:44,919 - ERROR - Failed to add triples for ex_comp:76 -> ex_comp:3: name 'URIRef' is not defined
+2025-04-24 15:51:44,919 - ERROR - Failed to add triples for ex_comp:76 -> ex_comp:56: name 'URIRef' is not defined
+2025-04-24 15:51:44,920 - ERROR - Failed to add triples for ex_comp:93 -> ex_comp:64: name 'URIRef' is not defined
+2025-04-24 15:51:44,920 - ERROR - Failed to add triples for ex_comp:1 -> ex_comp:96: name 'URIRef' is not defined
+2025-04-24 15:51:44,920 - ERROR - Failed to add triples for ex_comp:1 -> ex_comp:60: name 'URIRef' is not defined
+2025-04-24 15:51:44,920 - ERROR - Failed to add triples for ex_comp:1 -> ex_comp:72: name 'URIRef' is not defined
+2025-04-24 15:51:44,920 - INFO - Processed 10 companies
+2025-04-24 15:51:44,921 - ERROR - Failed to add triples for ex_comp:77 -> ex_comp:88: name 'URIRef' is not defined
+2025-04-24 15:51:44,921 - ERROR - Failed to add triples for ex_comp:77 -> ex_comp:92: name 'URIRef' is not defined
+2025-04-24 15:51:44,921 - ERROR - Failed to add triples for ex_comp:94 -> ex_comp:59: name 'URIRef' is not defined
+2025-04-24 15:51:44,921 - ERROR - Failed to add triples for ex_comp:94 -> ex_comp:63: name 'URIRef' is not defined
+2025-04-24 15:51:44,922 - ERROR - Failed to add triples for ex_comp:94 -> ex_comp:23: name 'URIRef' is not defined
+2025-04-24 15:51:44,922 - ERROR - Failed to add triples for ex_comp:13 -> ex_comp:100: name 'URIRef' is not defined
+2025-04-24 15:51:44,922 - ERROR - Failed to add triples for ex_comp:13 -> ex_comp:80: name 'URIRef' is not defined
+2025-04-24 15:51:44,922 - ERROR - Failed to add triples for ex_comp:13 -> ex_comp:55: name 'URIRef' is not defined
+2025-04-24 15:51:44,923 - ERROR - Failed to add triples for ex_comp:73 -> ex_comp:79: name 'URIRef' is not defined
+2025-04-24 15:51:44,923 - ERROR - Failed to add triples for ex_comp:87 -> ex_comp:35: name 'URIRef' is not defined
+2025-04-24 15:51:44,923 - ERROR - Failed to add triples for ex_comp:87 -> ex_comp:5: name 'URIRef' is not defined
+2025-04-24 15:51:44,924 - ERROR - Failed to add triples for ex_comp:57 -> ex_comp:23: name 'URIRef' is not defined
+2025-04-24 15:51:44,924 - ERROR - Failed to add triples for ex_comp:57 -> ex_comp:3: name 'URIRef' is not defined
+2025-04-24 15:51:44,924 - ERROR - Failed to add triples for ex_comp:57 -> ex_comp:44: name 'URIRef' is not defined
+2025-04-24 15:51:44,925 - ERROR - Failed to add triples for ex_comp:21 -> ex_comp:43: name 'URIRef' is not defined
+2025-04-24 15:51:44,925 - ERROR - Failed to add triples for ex_comp:40 -> ex_comp:26: name 'URIRef' is not defined
+2025-04-24 15:51:44,925 - ERROR - Failed to add triples for ex_comp:40 -> ex_comp:54: name 'URIRef' is not defined
+2025-04-24 15:51:44,925 - ERROR - Failed to add triples for ex_comp:40 -> ex_comp:98: name 'URIRef' is not defined
+2025-04-24 15:51:44,926 - ERROR - Failed to add triples for ex_comp:43 -> ex_comp:74: name 'URIRef' is not defined
+2025-04-24 15:51:44,926 - ERROR - Failed to add triples for ex_comp:20 -> ex_comp:55: name 'URIRef' is not defined
+2025-04-24 15:51:44,926 - INFO - Processed 20 companies
+2025-04-24 15:51:44,926 - ERROR - Failed to add triples for ex_comp:66 -> ex_comp:30: name 'URIRef' is not defined
+2025-04-24 15:51:44,927 - ERROR - Failed to add triples for ex_comp:66 -> ex_comp:56: name 'URIRef' is not defined
+2025-04-24 15:51:44,927 - ERROR - Failed to add triples for ex_comp:32 -> ex_comp:85: name 'URIRef' is not defined
+2025-04-24 15:51:44,927 - ERROR - Failed to add triples for ex_comp:32 -> ex_comp:90: name 'URIRef' is not defined
+2025-04-24 15:51:44,928 - ERROR - Failed to add triples for ex_comp:32 -> ex_comp:81: name 'URIRef' is not defined
+2025-04-24 15:51:44,928 - ERROR - Failed to add triples for ex_comp:27 -> ex_comp:89: name 'URIRef' is not defined
+2025-04-24 15:51:44,928 - ERROR - Failed to add triples for ex_comp:100 -> ex_comp:34: name 'URIRef' is not defined
+2025-04-24 15:51:44,929 - ERROR - Failed to add triples for ex_comp:45 -> ex_comp:72: name 'URIRef' is not defined
+2025-04-24 15:51:44,929 - ERROR - Failed to add triples for ex_comp:16 -> ex_comp:65: name 'URIRef' is not defined
+2025-04-24 15:51:44,929 - ERROR - Failed to add triples for ex_comp:5 -> ex_comp:63: name 'URIRef' is not defined
+2025-04-24 15:51:44,929 - ERROR - Failed to add triples for ex_comp:5 -> ex_comp:76: name 'URIRef' is not defined
+2025-04-24 15:51:44,929 - ERROR - Failed to add triples for ex_comp:5 -> ex_comp:51: name 'URIRef' is not defined
+2025-04-24 15:51:44,930 - ERROR - Failed to add triples for ex_comp:42 -> ex_comp:10: name 'URIRef' is not defined
+2025-04-24 15:51:44,930 - ERROR - Failed to add triples for ex_comp:34 -> ex_comp:70: name 'URIRef' is not defined
+2025-04-24 15:51:44,930 - ERROR - Failed to add triples for ex_comp:34 -> ex_comp:1: name 'URIRef' is not defined
+2025-04-24 15:51:44,930 - ERROR - Failed to add triples for ex_comp:84 -> ex_comp:85: name 'URIRef' is not defined
+2025-04-24 15:51:44,930 - ERROR - Failed to add triples for ex_comp:84 -> ex_comp:41: name 'URIRef' is not defined
+2025-04-24 15:51:44,931 - INFO - Processed 30 companies
+2025-04-24 15:51:44,931 - ERROR - Failed to add triples for ex_comp:99 -> ex_comp:95: name 'URIRef' is not defined
+2025-04-24 15:51:44,931 - ERROR - Failed to add triples for ex_comp:99 -> ex_comp:99: name 'URIRef' is not defined
+2025-04-24 15:51:44,931 - ERROR - Failed to add triples for ex_comp:99 -> ex_comp:14: name 'URIRef' is not defined
+2025-04-24 15:51:44,932 - ERROR - Failed to add triples for ex_comp:22 -> ex_comp:59: name 'URIRef' is not defined
+2025-04-24 15:51:44,932 - ERROR - Failed to add triples for ex_comp:22 -> ex_comp:11: name 'URIRef' is not defined
+2025-04-24 15:51:44,932 - ERROR - Failed to add triples for ex_comp:22 -> ex_comp:8: name 'URIRef' is not defined
+2025-04-24 15:51:44,932 - ERROR - Failed to add triples for ex_comp:26 -> ex_comp:1: name 'URIRef' is not defined
+2025-04-24 15:51:44,932 - ERROR - Failed to add triples for ex_comp:26 -> ex_comp:67: name 'URIRef' is not defined
+2025-04-24 15:51:44,932 - ERROR - Failed to add triples for ex_comp:78 -> ex_comp:31: name 'URIRef' is not defined
+2025-04-24 15:51:44,933 - ERROR - Failed to add triples for ex_comp:78 -> ex_comp:71: name 'URIRef' is not defined
+2025-04-24 15:51:44,933 - ERROR - Failed to add triples for ex_comp:44 -> ex_comp:48: name 'URIRef' is not defined
+2025-04-24 15:51:44,933 - ERROR - Failed to add triples for ex_comp:44 -> ex_comp:59: name 'URIRef' is not defined
+2025-04-24 15:51:44,933 - ERROR - Failed to add triples for ex_comp:74 -> ex_comp:75: name 'URIRef' is not defined
+2025-04-24 15:51:44,933 - ERROR - Failed to add triples for ex_comp:74 -> ex_comp:95: name 'URIRef' is not defined
+2025-04-24 15:51:44,934 - ERROR - Failed to add triples for ex_comp:74 -> ex_comp:72: name 'URIRef' is not defined
+2025-04-24 15:51:44,934 - ERROR - Failed to add triples for ex_comp:3 -> ex_comp:10: name 'URIRef' is not defined
+2025-04-24 15:51:44,934 - ERROR - Failed to add triples for ex_comp:3 -> ex_comp:74: name 'URIRef' is not defined
+2025-04-24 15:51:44,934 - ERROR - Failed to add triples for ex_comp:3 -> ex_comp:12: name 'URIRef' is not defined
+2025-04-24 15:51:44,935 - ERROR - Failed to add triples for ex_comp:10 -> ex_comp:88: name 'URIRef' is not defined
+2025-04-24 15:51:44,935 - ERROR - Failed to add triples for ex_comp:19 -> ex_comp:95: name 'URIRef' is not defined
+2025-04-24 15:51:44,935 - ERROR - Failed to add triples for ex_comp:17 -> ex_comp:71: name 'URIRef' is not defined
+2025-04-24 15:51:44,935 - INFO - Processed 40 companies
+2025-04-24 15:51:44,935 - ERROR - Failed to add triples for ex_comp:46 -> ex_comp:20: name 'URIRef' is not defined
+2025-04-24 15:51:44,936 - ERROR - Failed to add triples for ex_comp:72 -> ex_comp:25: name 'URIRef' is not defined
+2025-04-24 15:51:44,936 - ERROR - Failed to add triples for ex_comp:98 -> ex_comp:62: name 'URIRef' is not defined
+2025-04-24 15:51:44,936 - ERROR - Failed to add triples for ex_comp:39 -> ex_comp:22: name 'URIRef' is not defined
+2025-04-24 15:51:44,936 - ERROR - Failed to add triples for ex_comp:89 -> ex_comp:46: name 'URIRef' is not defined
+2025-04-24 15:51:44,936 - ERROR - Failed to add triples for ex_comp:89 -> ex_comp:76: name 'URIRef' is not defined
+2025-04-24 15:51:44,937 - ERROR - Failed to add triples for ex_comp:35 -> ex_comp:8: name 'URIRef' is not defined
+2025-04-24 15:51:44,937 - ERROR - Failed to add triples for ex_comp:35 -> ex_comp:99: name 'URIRef' is not defined
+2025-04-24 15:51:44,937 - ERROR - Failed to add triples for ex_comp:35 -> ex_comp:73: name 'URIRef' is not defined
+2025-04-24 15:51:44,937 - ERROR - Failed to add triples for ex_comp:15 -> ex_comp:16: name 'URIRef' is not defined
+2025-04-24 15:51:44,937 - ERROR - Failed to add triples for ex_comp:15 -> ex_comp:44: name 'URIRef' is not defined
+2025-04-24 15:51:44,938 - ERROR - Failed to add triples for ex_comp:15 -> ex_comp:64: name 'URIRef' is not defined
+2025-04-24 15:51:44,938 - ERROR - Failed to add triples for ex_comp:24 -> ex_comp:15: name 'URIRef' is not defined
+2025-04-24 15:51:44,938 - ERROR - Failed to add triples for ex_comp:24 -> ex_comp:26: name 'URIRef' is not defined
+2025-04-24 15:51:44,938 - ERROR - Failed to add triples for ex_comp:24 -> ex_comp:8: name 'URIRef' is not defined
+2025-04-24 15:51:44,938 - ERROR - Failed to add triples for ex_comp:49 -> ex_comp:85: name 'URIRef' is not defined
+2025-04-24 15:51:44,939 - ERROR - Failed to add triples for ex_comp:25 -> ex_comp:49: name 'URIRef' is not defined
+2025-04-24 15:51:44,939 - ERROR - Failed to add triples for ex_comp:25 -> ex_comp:60: name 'URIRef' is not defined
+2025-04-24 15:51:44,939 - ERROR - Failed to add triples for ex_comp:25 -> ex_comp:57: name 'URIRef' is not defined
+2025-04-24 15:51:44,939 - INFO - Processed 50 companies
+2025-04-24 15:51:44,940 - ERROR - Failed to add triples for ex_comp:53 -> ex_comp:90: name 'URIRef' is not defined
+2025-04-24 15:51:44,940 - ERROR - Failed to add triples for ex_comp:53 -> ex_comp:5: name 'URIRef' is not defined
+2025-04-24 15:51:44,940 - ERROR - Failed to add triples for ex_comp:53 -> ex_comp:78: name 'URIRef' is not defined
+2025-04-24 15:51:44,940 - ERROR - Failed to add triples for ex_comp:6 -> ex_comp:30: name 'URIRef' is not defined
+2025-04-24 15:51:44,940 - ERROR - Failed to add triples for ex_comp:6 -> ex_comp:68: name 'URIRef' is not defined
+2025-04-24 15:51:44,941 - ERROR - Failed to add triples for ex_comp:90 -> ex_comp:9: name 'URIRef' is not defined
+2025-04-24 15:51:44,941 - ERROR - Failed to add triples for ex_comp:90 -> ex_comp:50: name 'URIRef' is not defined
+2025-04-24 15:51:44,941 - ERROR - Failed to add triples for ex_comp:90 -> ex_comp:20: name 'URIRef' is not defined
+2025-04-24 15:51:44,942 - ERROR - Failed to add triples for ex_comp:18 -> ex_comp:43: name 'URIRef' is not defined
+2025-04-24 15:51:44,942 - ERROR - Failed to add triples for ex_comp:85 -> ex_comp:25: name 'URIRef' is not defined
+2025-04-24 15:51:44,942 - ERROR - Failed to add triples for ex_comp:85 -> ex_comp:30: name 'URIRef' is not defined
+2025-04-24 15:51:44,942 - ERROR - Failed to add triples for ex_comp:85 -> ex_comp:34: name 'URIRef' is not defined
+2025-04-24 15:51:44,943 - ERROR - Failed to add triples for ex_comp:33 -> ex_comp:45: name 'URIRef' is not defined
+2025-04-24 15:51:44,943 - ERROR - Failed to add triples for ex_comp:75 -> ex_comp:67: name 'URIRef' is not defined
+2025-04-24 15:51:44,943 - ERROR - Failed to add triples for ex_comp:97 -> ex_comp:50: name 'URIRef' is not defined
+2025-04-24 15:51:44,943 - ERROR - Failed to add triples for ex_comp:86 -> ex_comp:47: name 'URIRef' is not defined
+2025-04-24 15:51:44,944 - ERROR - Failed to add triples for ex_comp:52 -> ex_comp:78: name 'URIRef' is not defined
+2025-04-24 15:51:44,944 - INFO - Processed 60 companies
+2025-04-24 15:51:44,945 - ERROR - Failed to add triples for ex_comp:11 -> ex_comp:96: name 'URIRef' is not defined
+2025-04-24 15:51:44,945 - ERROR - Failed to add triples for ex_comp:11 -> ex_comp:92: name 'URIRef' is not defined
+2025-04-24 15:51:44,946 - ERROR - Failed to add triples for ex_comp:96 -> ex_comp:95: name 'URIRef' is not defined
+2025-04-24 15:51:44,946 - ERROR - Failed to add triples for ex_comp:96 -> ex_comp:63: name 'URIRef' is not defined
+2025-04-24 15:51:44,947 - ERROR - Failed to add triples for ex_comp:96 -> ex_comp:36: name 'URIRef' is not defined
+2025-04-24 15:51:44,947 - ERROR - Failed to add triples for ex_comp:68 -> ex_comp:97: name 'URIRef' is not defined
+2025-04-24 15:51:44,947 - ERROR - Failed to add triples for ex_comp:68 -> ex_comp:75: name 'URIRef' is not defined
+2025-04-24 15:51:44,948 - ERROR - Failed to add triples for ex_comp:81 -> ex_comp:56: name 'URIRef' is not defined
+2025-04-24 15:51:44,948 - ERROR - Failed to add triples for ex_comp:81 -> ex_comp:99: name 'URIRef' is not defined
+2025-04-24 15:51:44,949 - ERROR - Failed to add triples for ex_comp:30 -> ex_comp:14: name 'URIRef' is not defined
+2025-04-24 15:51:44,949 - ERROR - Failed to add triples for ex_comp:23 -> ex_comp:32: name 'URIRef' is not defined
+2025-04-24 15:51:44,949 - ERROR - Failed to add triples for ex_comp:23 -> ex_comp:78: name 'URIRef' is not defined
+2025-04-24 15:51:44,949 - ERROR - Failed to add triples for ex_comp:14 -> ex_comp:9: name 'URIRef' is not defined
+2025-04-24 15:51:44,950 - ERROR - Failed to add triples for ex_comp:82 -> ex_comp:69: name 'URIRef' is not defined
+2025-04-24 15:51:44,950 - ERROR - Failed to add triples for ex_comp:82 -> ex_comp:80: name 'URIRef' is not defined
+2025-04-24 15:51:44,950 - ERROR - Failed to add triples for ex_comp:69 -> ex_comp:81: name 'URIRef' is not defined
+2025-04-24 15:51:44,950 - ERROR - Failed to add triples for ex_comp:31 -> ex_comp:61: name 'URIRef' is not defined
+2025-04-24 15:51:44,950 - ERROR - Failed to add triples for ex_comp:31 -> ex_comp:94: name 'URIRef' is not defined
+2025-04-24 15:51:44,951 - INFO - Processed 70 companies
+2025-04-24 15:51:44,951 - ERROR - Failed to add triples for ex_comp:63 -> ex_comp:52: name 'URIRef' is not defined
+2025-04-24 15:51:44,951 - ERROR - Failed to add triples for ex_comp:63 -> ex_comp:89: name 'URIRef' is not defined
+2025-04-24 15:51:44,951 - ERROR - Failed to add triples for ex_comp:56 -> ex_comp:17: name 'URIRef' is not defined
+2025-04-24 15:51:44,951 - ERROR - Failed to add triples for ex_comp:56 -> ex_comp:7: name 'URIRef' is not defined
+2025-04-24 15:51:44,951 - ERROR - Failed to add triples for ex_comp:56 -> ex_comp:28: name 'URIRef' is not defined
+2025-04-24 15:51:44,952 - ERROR - Failed to add triples for ex_comp:61 -> ex_comp:42: name 'URIRef' is not defined
+2025-04-24 15:51:44,952 - ERROR - Failed to add triples for ex_comp:28 -> ex_comp:8: name 'URIRef' is not defined
+2025-04-24 15:51:44,952 - ERROR - Failed to add triples for ex_comp:28 -> ex_comp:55: name 'URIRef' is not defined
+2025-04-24 15:51:44,952 - ERROR - Failed to add triples for ex_comp:64 -> ex_comp:97: name 'URIRef' is not defined
+2025-04-24 15:51:44,952 - ERROR - Failed to add triples for ex_comp:50 -> ex_comp:34: name 'URIRef' is not defined
+2025-04-24 15:51:44,953 - ERROR - Failed to add triples for ex_comp:50 -> ex_comp:59: name 'URIRef' is not defined
+2025-04-24 15:51:44,953 - ERROR - Failed to add triples for ex_comp:71 -> ex_comp:9: name 'URIRef' is not defined
+2025-04-24 15:51:44,953 - ERROR - Failed to add triples for ex_comp:71 -> ex_comp:72: name 'URIRef' is not defined
+2025-04-24 15:51:44,953 - ERROR - Failed to add triples for ex_comp:71 -> ex_comp:57: name 'URIRef' is not defined
+2025-04-24 15:51:44,953 - ERROR - Failed to add triples for ex_comp:67 -> ex_comp:94: name 'URIRef' is not defined
+2025-04-24 15:51:44,953 - ERROR - Failed to add triples for ex_comp:2 -> ex_comp:42: name 'URIRef' is not defined
+2025-04-24 15:51:44,954 - ERROR - Failed to add triples for ex_comp:2 -> ex_comp:33: name 'URIRef' is not defined
+2025-04-24 15:51:44,954 - ERROR - Failed to add triples for ex_comp:2 -> ex_comp:90: name 'URIRef' is not defined
+2025-04-24 15:51:44,954 - ERROR - Failed to add triples for ex_comp:88 -> ex_comp:20: name 'URIRef' is not defined
+2025-04-24 15:51:44,954 - ERROR - Failed to add triples for ex_comp:88 -> ex_comp:48: name 'URIRef' is not defined
+2025-04-24 15:51:44,954 - INFO - Processed 80 companies
+2025-04-24 15:51:44,954 - ERROR - Failed to add triples for ex_comp:62 -> ex_comp:31: name 'URIRef' is not defined
+2025-04-24 15:51:44,955 - ERROR - Failed to add triples for ex_comp:62 -> ex_comp:59: name 'URIRef' is not defined
+2025-04-24 15:51:44,955 - ERROR - Failed to add triples for ex_comp:62 -> ex_comp:30: name 'URIRef' is not defined
+2025-04-24 15:51:44,955 - ERROR - Failed to add triples for ex_comp:38 -> ex_comp:30: name 'URIRef' is not defined
+2025-04-24 15:51:44,955 - ERROR - Failed to add triples for ex_comp:12 -> ex_comp:66: name 'URIRef' is not defined
+2025-04-24 15:51:44,956 - ERROR - Failed to add triples for ex_comp:12 -> ex_comp:3: name 'URIRef' is not defined
+2025-04-24 15:51:44,956 - ERROR - Failed to add triples for ex_comp:12 -> ex_comp:58: name 'URIRef' is not defined
+2025-04-24 15:51:44,956 - ERROR - Failed to add triples for ex_comp:60 -> ex_comp:82: name 'URIRef' is not defined
+2025-04-24 15:51:44,956 - ERROR - Failed to add triples for ex_comp:60 -> ex_comp:32: name 'URIRef' is not defined
+2025-04-24 15:51:44,957 - ERROR - Failed to add triples for ex_comp:60 -> ex_comp:61: name 'URIRef' is not defined
+2025-04-24 15:51:44,957 - ERROR - Failed to add triples for ex_comp:9 -> ex_comp:30: name 'URIRef' is not defined
+2025-04-24 15:51:44,957 - ERROR - Failed to add triples for ex_comp:9 -> ex_comp:9: name 'URIRef' is not defined
+2025-04-24 15:51:44,957 - ERROR - Failed to add triples for ex_comp:29 -> ex_comp:38: name 'URIRef' is not defined
+2025-04-24 15:51:44,958 - ERROR - Failed to add triples for ex_comp:29 -> ex_comp:6: name 'URIRef' is not defined
+2025-04-24 15:51:44,958 - ERROR - Failed to add triples for ex_comp:29 -> ex_comp:67: name 'URIRef' is not defined
+2025-04-24 15:51:44,959 - ERROR - Failed to add triples for ex_comp:8 -> ex_comp:68: name 'URIRef' is not defined
+2025-04-24 15:51:44,959 - ERROR - Failed to add triples for ex_comp:8 -> ex_comp:23: name 'URIRef' is not defined
+2025-04-24 15:51:44,959 - ERROR - Failed to add triples for ex_comp:8 -> ex_comp:74: name 'URIRef' is not defined
+2025-04-24 15:51:44,960 - ERROR - Failed to add triples for ex_comp:4 -> ex_comp:36: name 'URIRef' is not defined
+2025-04-24 15:51:44,960 - ERROR - Failed to add triples for ex_comp:4 -> ex_comp:84: name 'URIRef' is not defined
+2025-04-24 15:51:44,961 - ERROR - Failed to add triples for ex_comp:59 -> ex_comp:90: name 'URIRef' is not defined
+2025-04-24 15:51:44,961 - ERROR - Failed to add triples for ex_comp:59 -> ex_comp:76: name 'URIRef' is not defined
+2025-04-24 15:51:44,962 - ERROR - Failed to add triples for ex_comp:59 -> ex_comp:18: name 'URIRef' is not defined
+2025-04-24 15:51:44,962 - ERROR - Failed to add triples for ex_comp:48 -> ex_comp:8: name 'URIRef' is not defined
+2025-04-24 15:51:44,962 - ERROR - Failed to add triples for ex_comp:48 -> ex_comp:39: name 'URIRef' is not defined
+2025-04-24 15:51:44,963 - INFO - Processed 90 companies
+2025-04-24 15:51:44,963 - ERROR - Failed to add triples for ex_comp:36 -> ex_comp:2: name 'URIRef' is not defined
+2025-04-24 15:51:44,963 - ERROR - Failed to add triples for ex_comp:36 -> ex_comp:73: name 'URIRef' is not defined
+2025-04-24 15:51:44,963 - ERROR - Failed to add triples for ex_comp:36 -> ex_comp:89: name 'URIRef' is not defined
+2025-04-24 15:51:44,964 - ERROR - Failed to add triples for ex_comp:95 -> ex_comp:88: name 'URIRef' is not defined
+2025-04-24 15:51:44,964 - ERROR - Failed to add triples for ex_comp:37 -> ex_comp:39: name 'URIRef' is not defined
+2025-04-24 15:51:44,964 - ERROR - Failed to add triples for ex_comp:92 -> ex_comp:30: name 'URIRef' is not defined
+2025-04-24 15:51:44,964 - ERROR - Failed to add triples for ex_comp:92 -> ex_comp:16: name 'URIRef' is not defined
+2025-04-24 15:51:44,965 - ERROR - Failed to add triples for ex_comp:92 -> ex_comp:100: name 'URIRef' is not defined
+2025-04-24 15:51:44,965 - ERROR - Failed to add triples for ex_comp:65 -> ex_comp:92: name 'URIRef' is not defined
+2025-04-24 15:51:44,965 - ERROR - Failed to add triples for ex_comp:51 -> ex_comp:10: name 'URIRef' is not defined
+2025-04-24 15:51:44,966 - ERROR - Failed to add triples for ex_comp:51 -> ex_comp:75: name 'URIRef' is not defined
+2025-04-24 15:51:44,966 - ERROR - Failed to add triples for ex_comp:47 -> ex_comp:5: name 'URIRef' is not defined
+2025-04-24 15:51:44,966 - ERROR - Failed to add triples for ex_comp:47 -> ex_comp:42: name 'URIRef' is not defined
+2025-04-24 15:51:44,967 - ERROR - Failed to add triples for ex_comp:83 -> ex_comp:70: name 'URIRef' is not defined
+2025-04-24 15:51:44,967 - ERROR - Failed to add triples for ex_comp:41 -> ex_comp:88: name 'URIRef' is not defined
+2025-04-24 15:51:44,967 - ERROR - Failed to add triples for ex_comp:41 -> ex_comp:45: name 'URIRef' is not defined
+2025-04-24 15:51:44,968 - ERROR - Failed to add triples for ex_comp:54 -> ex_comp:74: name 'URIRef' is not defined
+2025-04-24 15:51:44,968 - ERROR - Failed to add triples for ex_comp:54 -> ex_comp:49: name 'URIRef' is not defined
+2025-04-24 15:51:44,968 - ERROR - Failed to add triples for ex_comp:54 -> ex_comp:50: name 'URIRef' is not defined
+2025-04-24 15:51:44,969 - INFO - Processed 100 companies
+2025-04-24 15:51:44,969 - INFO - Saving updated graph to Augemented_Testdataset.ttl
+2025-04-24 15:51:44,987 - INFO - Done. Ownership edges added and file saved.
+2025-04-24 15:53:46,893 - INFO - Loading RDF data from Testdataset.rdf
+2025-04-24 15:53:46,917 - INFO - Extracting company URIs from the graph
+2025-04-24 15:53:47,010 - INFO - Found 100 companies
+2025-04-24 15:53:47,011 - INFO - Generating synthetic ownership edges
+2025-04-24 15:53:47,012 - INFO - Processed 10 companies
+2025-04-24 15:53:47,013 - INFO - Processed 20 companies
+2025-04-24 15:53:47,014 - INFO - Processed 30 companies
+2025-04-24 15:53:47,014 - INFO - Processed 40 companies
+2025-04-24 15:53:47,015 - INFO - Processed 50 companies
+2025-04-24 15:53:47,016 - INFO - Processed 60 companies
+2025-04-24 15:53:47,016 - INFO - Processed 70 companies
+2025-04-24 15:53:47,017 - INFO - Processed 80 companies
+2025-04-24 15:53:47,018 - INFO - Processed 90 companies
+2025-04-24 15:53:47,018 - INFO - Processed 100 companies
+2025-04-24 15:53:47,018 - INFO - Saving updated graph to Augemented_Testdataset.ttl
+2025-04-24 15:53:47,042 - INFO - Done. Ownership edges added and file saved.
