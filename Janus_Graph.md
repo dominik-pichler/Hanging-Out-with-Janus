@@ -1,16 +1,5 @@
 # How to use Janus Graph DB 
 
-```
-       \|||/
-       (o o)
-----ooO-(_)-Ooo--------
-
-```
-
-
-
-
-
 
 ## Setup (Dockerized) 
 
