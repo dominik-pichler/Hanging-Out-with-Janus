@@ -1,0 +1,749 @@
+2025-04-24 15:40:22,680 - INFO - Loading RDF data from Testdataset.rdf
+2025-04-24 15:40:22,701 - INFO - Extracting company URIs from the graph
+2025-04-24 15:40:22,727 - INFO - Found 100 companies
+2025-04-24 15:40:22,728 - INFO - Generating synthetic ownership edges
+2025-04-24 15:51:44,865 - INFO - Loading RDF data from Testdataset.rdf
+2025-04-24 15:51:44,886 - INFO - Extracting company URIs from the graph
+2025-04-24 15:51:44,914 - INFO - Found 100 companies
+2025-04-24 15:51:44,915 - INFO - Generating synthetic ownership edges
+2025-04-24 15:51:44,915 - ERROR - Failed to add triples for ex_comp:70 -> ex_comp:50: name 'URIRef' is not defined
+2025-04-24 15:51:44,916 - ERROR - Failed to add triples for ex_comp:70 -> ex_comp:40: name 'URIRef' is not defined
+2025-04-24 15:51:44,916 - ERROR - Failed to add triples for ex_comp:58 -> ex_comp:2: name 'URIRef' is not defined
+2025-04-24 15:51:44,916 - ERROR - Failed to add triples for ex_comp:79 -> ex_comp:85: name 'URIRef' is not defined
+2025-04-24 15:51:44,916 - ERROR - Failed to add triples for ex_comp:79 -> ex_comp:53: name 'URIRef' is not defined
+2025-04-24 15:51:44,917 - ERROR - Failed to add triples for ex_comp:80 -> ex_comp:39: name 'URIRef' is not defined
+2025-04-24 15:51:44,917 - ERROR - Failed to add triples for ex_comp:80 -> ex_comp:22: name 'URIRef' is not defined
+2025-04-24 15:51:44,917 - ERROR - Failed to add triples for ex_comp:55 -> ex_comp:50: name 'URIRef' is not defined
+2025-04-24 15:51:44,918 - ERROR - Failed to add triples for ex_comp:55 -> ex_comp:34: name 'URIRef' is not defined
+2025-04-24 15:51:44,918 - ERROR - Failed to add triples for ex_comp:55 -> ex_comp:46: name 'URIRef' is not defined
+2025-04-24 15:51:44,918 - ERROR - Failed to add triples for ex_comp:91 -> ex_comp:68: name 'URIRef' is not defined
+2025-04-24 15:51:44,918 - ERROR - Failed to add triples for ex_comp:91 -> ex_comp:5: name 'URIRef' is not defined
+2025-04-24 15:51:44,919 - ERROR - Failed to add triples for ex_comp:91 -> ex_comp:81: name 'URIRef' is not defined
+2025-04-24 15:51:44,919 - ERROR - Failed to add triples for ex_comp:7 -> ex_comp:85: name 'URIRef' is not defined
+2025-04-24 15:51:44,919 - ERROR - Failed to add triples for ex_comp:76 -> ex_comp:3: name 'URIRef' is not defined
+2025-04-24 15:51:44,919 - ERROR - Failed to add triples for ex_comp:76 -> ex_comp:56: name 'URIRef' is not defined
+2025-04-24 15:51:44,920 - ERROR - Failed to add triples for ex_comp:93 -> ex_comp:64: name 'URIRef' is not defined
+2025-04-24 15:51:44,920 - ERROR - Failed to add triples for ex_comp:1 -> ex_comp:96: name 'URIRef' is not defined
+2025-04-24 15:51:44,920 - ERROR - Failed to add triples for ex_comp:1 -> ex_comp:60: name 'URIRef' is not defined
+2025-04-24 15:51:44,920 - ERROR - Failed to add triples for ex_comp:1 -> ex_comp:72: name 'URIRef' is not defined
+2025-04-24 15:51:44,920 - INFO - Processed 10 companies
+2025-04-24 15:51:44,921 - ERROR - Failed to add triples for ex_comp:77 -> ex_comp:88: name 'URIRef' is not defined
+2025-04-24 15:51:44,921 - ERROR - Failed to add triples for ex_comp:77 -> ex_comp:92: name 'URIRef' is not defined
+2025-04-24 15:51:44,921 - ERROR - Failed to add triples for ex_comp:94 -> ex_comp:59: name 'URIRef' is not defined
+2025-04-24 15:51:44,921 - ERROR - Failed to add triples for ex_comp:94 -> ex_comp:63: name 'URIRef' is not defined
+2025-04-24 15:51:44,922 - ERROR - Failed to add triples for ex_comp:94 -> ex_comp:23: name 'URIRef' is not defined
+2025-04-24 15:51:44,922 - ERROR - Failed to add triples for ex_comp:13 -> ex_comp:100: name 'URIRef' is not defined
+2025-04-24 15:51:44,922 - ERROR - Failed to add triples for ex_comp:13 -> ex_comp:80: name 'URIRef' is not defined
+2025-04-24 15:51:44,922 - ERROR - Failed to add triples for ex_comp:13 -> ex_comp:55: name 'URIRef' is not defined
+2025-04-24 15:51:44,923 - ERROR - Failed to add triples for ex_comp:73 -> ex_comp:79: name 'URIRef' is not defined
+2025-04-24 15:51:44,923 - ERROR - Failed to add triples for ex_comp:87 -> ex_comp:35: name 'URIRef' is not defined
+2025-04-24 15:51:44,923 - ERROR - Failed to add triples for ex_comp:87 -> ex_comp:5: name 'URIRef' is not defined
+2025-04-24 15:51:44,924 - ERROR - Failed to add triples for ex_comp:57 -> ex_comp:23: name 'URIRef' is not defined
+2025-04-24 15:51:44,924 - ERROR - Failed to add triples for ex_comp:57 -> ex_comp:3: name 'URIRef' is not defined
+2025-04-24 15:51:44,924 - ERROR - Failed to add triples for ex_comp:57 -> ex_comp:44: name 'URIRef' is not defined
+2025-04-24 15:51:44,925 - ERROR - Failed to add triples for ex_comp:21 -> ex_comp:43: name 'URIRef' is not defined
+2025-04-24 15:51:44,925 - ERROR - Failed to add triples for ex_comp:40 -> ex_comp:26: name 'URIRef' is not defined
+2025-04-24 15:51:44,925 - ERROR - Failed to add triples for ex_comp:40 -> ex_comp:54: name 'URIRef' is not defined
+2025-04-24 15:51:44,925 - ERROR - Failed to add triples for ex_comp:40 -> ex_comp:98: name 'URIRef' is not defined
+2025-04-24 15:51:44,926 - ERROR - Failed to add triples for ex_comp:43 -> ex_comp:74: name 'URIRef' is not defined
+2025-04-24 15:51:44,926 - ERROR - Failed to add triples for ex_comp:20 -> ex_comp:55: name 'URIRef' is not defined
+2025-04-24 15:51:44,926 - INFO - Processed 20 companies
+2025-04-24 15:51:44,926 - ERROR - Failed to add triples for ex_comp:66 -> ex_comp:30: name 'URIRef' is not defined
+2025-04-24 15:51:44,927 - ERROR - Failed to add triples for ex_comp:66 -> ex_comp:56: name 'URIRef' is not defined
+2025-04-24 15:51:44,927 - ERROR - Failed to add triples for ex_comp:32 -> ex_comp:85: name 'URIRef' is not defined
+2025-04-24 15:51:44,927 - ERROR - Failed to add triples for ex_comp:32 -> ex_comp:90: name 'URIRef' is not defined
+2025-04-24 15:51:44,928 - ERROR - Failed to add triples for ex_comp:32 -> ex_comp:81: name 'URIRef' is not defined
+2025-04-24 15:51:44,928 - ERROR - Failed to add triples for ex_comp:27 -> ex_comp:89: name 'URIRef' is not defined
+2025-04-24 15:51:44,928 - ERROR - Failed to add triples for ex_comp:100 -> ex_comp:34: name 'URIRef' is not defined
+2025-04-24 15:51:44,929 - ERROR - Failed to add triples for ex_comp:45 -> ex_comp:72: name 'URIRef' is not defined
+2025-04-24 15:51:44,929 - ERROR - Failed to add triples for ex_comp:16 -> ex_comp:65: name 'URIRef' is not defined
+2025-04-24 15:51:44,929 - ERROR - Failed to add triples for ex_comp:5 -> ex_comp:63: name 'URIRef' is not defined
+2025-04-24 15:51:44,929 - ERROR - Failed to add triples for ex_comp:5 -> ex_comp:76: name 'URIRef' is not defined
+2025-04-24 15:51:44,929 - ERROR - Failed to add triples for ex_comp:5 -> ex_comp:51: name 'URIRef' is not defined
+2025-04-24 15:51:44,930 - ERROR - Failed to add triples for ex_comp:42 -> ex_comp:10: name 'URIRef' is not defined
+2025-04-24 15:51:44,930 - ERROR - Failed to add triples for ex_comp:34 -> ex_comp:70: name 'URIRef' is not defined
+2025-04-24 15:51:44,930 - ERROR - Failed to add triples for ex_comp:34 -> ex_comp:1: name 'URIRef' is not defined
+2025-04-24 15:51:44,930 - ERROR - Failed to add triples for ex_comp:84 -> ex_comp:85: name 'URIRef' is not defined
+2025-04-24 15:51:44,930 - ERROR - Failed to add triples for ex_comp:84 -> ex_comp:41: name 'URIRef' is not defined
+2025-04-24 15:51:44,931 - INFO - Processed 30 companies
+2025-04-24 15:51:44,931 - ERROR - Failed to add triples for ex_comp:99 -> ex_comp:95: name 'URIRef' is not defined
+2025-04-24 15:51:44,931 - ERROR - Failed to add triples for ex_comp:99 -> ex_comp:99: name 'URIRef' is not defined
+2025-04-24 15:51:44,931 - ERROR - Failed to add triples for ex_comp:99 -> ex_comp:14: name 'URIRef' is not defined
+2025-04-24 15:51:44,932 - ERROR - Failed to add triples for ex_comp:22 -> ex_comp:59: name 'URIRef' is not defined
+2025-04-24 15:51:44,932 - ERROR - Failed to add triples for ex_comp:22 -> ex_comp:11: name 'URIRef' is not defined
+2025-04-24 15:51:44,932 - ERROR - Failed to add triples for ex_comp:22 -> ex_comp:8: name 'URIRef' is not defined
+2025-04-24 15:51:44,932 - ERROR - Failed to add triples for ex_comp:26 -> ex_comp:1: name 'URIRef' is not defined
+2025-04-24 15:51:44,932 - ERROR - Failed to add triples for ex_comp:26 -> ex_comp:67: name 'URIRef' is not defined
+2025-04-24 15:51:44,932 - ERROR - Failed to add triples for ex_comp:78 -> ex_comp:31: name 'URIRef' is not defined
+2025-04-24 15:51:44,933 - ERROR - Failed to add triples for ex_comp:78 -> ex_comp:71: name 'URIRef' is not defined
+2025-04-24 15:51:44,933 - ERROR - Failed to add triples for ex_comp:44 -> ex_comp:48: name 'URIRef' is not defined
+2025-04-24 15:51:44,933 - ERROR - Failed to add triples for ex_comp:44 -> ex_comp:59: name 'URIRef' is not defined
+2025-04-24 15:51:44,933 - ERROR - Failed to add triples for ex_comp:74 -> ex_comp:75: name 'URIRef' is not defined
+2025-04-24 15:51:44,933 - ERROR - Failed to add triples for ex_comp:74 -> ex_comp:95: name 'URIRef' is not defined
+2025-04-24 15:51:44,934 - ERROR - Failed to add triples for ex_comp:74 -> ex_comp:72: name 'URIRef' is not defined
+2025-04-24 15:51:44,934 - ERROR - Failed to add triples for ex_comp:3 -> ex_comp:10: name 'URIRef' is not defined
+2025-04-24 15:51:44,934 - ERROR - Failed to add triples for ex_comp:3 -> ex_comp:74: name 'URIRef' is not defined
+2025-04-24 15:51:44,934 - ERROR - Failed to add triples for ex_comp:3 -> ex_comp:12: name 'URIRef' is not defined
+2025-04-24 15:51:44,935 - ERROR - Failed to add triples for ex_comp:10 -> ex_comp:88: name 'URIRef' is not defined
+2025-04-24 15:51:44,935 - ERROR - Failed to add triples for ex_comp:19 -> ex_comp:95: name 'URIRef' is not defined
+2025-04-24 15:51:44,935 - ERROR - Failed to add triples for ex_comp:17 -> ex_comp:71: name 'URIRef' is not defined
+2025-04-24 15:51:44,935 - INFO - Processed 40 companies
+2025-04-24 15:51:44,935 - ERROR - Failed to add triples for ex_comp:46 -> ex_comp:20: name 'URIRef' is not defined
+2025-04-24 15:51:44,936 - ERROR - Failed to add triples for ex_comp:72 -> ex_comp:25: name 'URIRef' is not defined
+2025-04-24 15:51:44,936 - ERROR - Failed to add triples for ex_comp:98 -> ex_comp:62: name 'URIRef' is not defined
+2025-04-24 15:51:44,936 - ERROR - Failed to add triples for ex_comp:39 -> ex_comp:22: name 'URIRef' is not defined
+2025-04-24 15:51:44,936 - ERROR - Failed to add triples for ex_comp:89 -> ex_comp:46: name 'URIRef' is not defined
+2025-04-24 15:51:44,936 - ERROR - Failed to add triples for ex_comp:89 -> ex_comp:76: name 'URIRef' is not defined
+2025-04-24 15:51:44,937 - ERROR - Failed to add triples for ex_comp:35 -> ex_comp:8: name 'URIRef' is not defined
+2025-04-24 15:51:44,937 - ERROR - Failed to add triples for ex_comp:35 -> ex_comp:99: name 'URIRef' is not defined
+2025-04-24 15:51:44,937 - ERROR - Failed to add triples for ex_comp:35 -> ex_comp:73: name 'URIRef' is not defined
+2025-04-24 15:51:44,937 - ERROR - Failed to add triples for ex_comp:15 -> ex_comp:16: name 'URIRef' is not defined
+2025-04-24 15:51:44,937 - ERROR - Failed to add triples for ex_comp:15 -> ex_comp:44: name 'URIRef' is not defined
+2025-04-24 15:51:44,938 - ERROR - Failed to add triples for ex_comp:15 -> ex_comp:64: name 'URIRef' is not defined
+2025-04-24 15:51:44,938 - ERROR - Failed to add triples for ex_comp:24 -> ex_comp:15: name 'URIRef' is not defined
+2025-04-24 15:51:44,938 - ERROR - Failed to add triples for ex_comp:24 -> ex_comp:26: name 'URIRef' is not defined
+2025-04-24 15:51:44,938 - ERROR - Failed to add triples for ex_comp:24 -> ex_comp:8: name 'URIRef' is not defined
+2025-04-24 15:51:44,938 - ERROR - Failed to add triples for ex_comp:49 -> ex_comp:85: name 'URIRef' is not defined
+2025-04-24 15:51:44,939 - ERROR - Failed to add triples for ex_comp:25 -> ex_comp:49: name 'URIRef' is not defined
+2025-04-24 15:51:44,939 - ERROR - Failed to add triples for ex_comp:25 -> ex_comp:60: name 'URIRef' is not defined
+2025-04-24 15:51:44,939 - ERROR - Failed to add triples for ex_comp:25 -> ex_comp:57: name 'URIRef' is not defined
+2025-04-24 15:51:44,939 - INFO - Processed 50 companies
+2025-04-24 15:51:44,940 - ERROR - Failed to add triples for ex_comp:53 -> ex_comp:90: name 'URIRef' is not defined
+2025-04-24 15:51:44,940 - ERROR - Failed to add triples for ex_comp:53 -> ex_comp:5: name 'URIRef' is not defined
+2025-04-24 15:51:44,940 - ERROR - Failed to add triples for ex_comp:53 -> ex_comp:78: name 'URIRef' is not defined
+2025-04-24 15:51:44,940 - ERROR - Failed to add triples for ex_comp:6 -> ex_comp:30: name 'URIRef' is not defined
+2025-04-24 15:51:44,940 - ERROR - Failed to add triples for ex_comp:6 -> ex_comp:68: name 'URIRef' is not defined
+2025-04-24 15:51:44,941 - ERROR - Failed to add triples for ex_comp:90 -> ex_comp:9: name 'URIRef' is not defined
+2025-04-24 15:51:44,941 - ERROR - Failed to add triples for ex_comp:90 -> ex_comp:50: name 'URIRef' is not defined
+2025-04-24 15:51:44,941 - ERROR - Failed to add triples for ex_comp:90 -> ex_comp:20: name 'URIRef' is not defined
+2025-04-24 15:51:44,942 - ERROR - Failed to add triples for ex_comp:18 -> ex_comp:43: name 'URIRef' is not defined
+2025-04-24 15:51:44,942 - ERROR - Failed to add triples for ex_comp:85 -> ex_comp:25: name 'URIRef' is not defined
+2025-04-24 15:51:44,942 - ERROR - Failed to add triples for ex_comp:85 -> ex_comp:30: name 'URIRef' is not defined
+2025-04-24 15:51:44,942 - ERROR - Failed to add triples for ex_comp:85 -> ex_comp:34: name 'URIRef' is not defined
+2025-04-24 15:51:44,943 - ERROR - Failed to add triples for ex_comp:33 -> ex_comp:45: name 'URIRef' is not defined
+2025-04-24 15:51:44,943 - ERROR - Failed to add triples for ex_comp:75 -> ex_comp:67: name 'URIRef' is not defined
+2025-04-24 15:51:44,943 - ERROR - Failed to add triples for ex_comp:97 -> ex_comp:50: name 'URIRef' is not defined
+2025-04-24 15:51:44,943 - ERROR - Failed to add triples for ex_comp:86 -> ex_comp:47: name 'URIRef' is not defined
+2025-04-24 15:51:44,944 - ERROR - Failed to add triples for ex_comp:52 -> ex_comp:78: name 'URIRef' is not defined
+2025-04-24 15:51:44,944 - INFO - Processed 60 companies
+2025-04-24 15:51:44,945 - ERROR - Failed to add triples for ex_comp:11 -> ex_comp:96: name 'URIRef' is not defined
+2025-04-24 15:51:44,945 - ERROR - Failed to add triples for ex_comp:11 -> ex_comp:92: name 'URIRef' is not defined
+2025-04-24 15:51:44,946 - ERROR - Failed to add triples for ex_comp:96 -> ex_comp:95: name 'URIRef' is not defined
+2025-04-24 15:51:44,946 - ERROR - Failed to add triples for ex_comp:96 -> ex_comp:63: name 'URIRef' is not defined
+2025-04-24 15:51:44,947 - ERROR - Failed to add triples for ex_comp:96 -> ex_comp:36: name 'URIRef' is not defined
+2025-04-24 15:51:44,947 - ERROR - Failed to add triples for ex_comp:68 -> ex_comp:97: name 'URIRef' is not defined
+2025-04-24 15:51:44,947 - ERROR - Failed to add triples for ex_comp:68 -> ex_comp:75: name 'URIRef' is not defined
+2025-04-24 15:51:44,948 - ERROR - Failed to add triples for ex_comp:81 -> ex_comp:56: name 'URIRef' is not defined
+2025-04-24 15:51:44,948 - ERROR - Failed to add triples for ex_comp:81 -> ex_comp:99: name 'URIRef' is not defined
+2025-04-24 15:51:44,949 - ERROR - Failed to add triples for ex_comp:30 -> ex_comp:14: name 'URIRef' is not defined
+2025-04-24 15:51:44,949 - ERROR - Failed to add triples for ex_comp:23 -> ex_comp:32: name 'URIRef' is not defined
+2025-04-24 15:51:44,949 - ERROR - Failed to add triples for ex_comp:23 -> ex_comp:78: name 'URIRef' is not defined
+2025-04-24 15:51:44,949 - ERROR - Failed to add triples for ex_comp:14 -> ex_comp:9: name 'URIRef' is not defined
+2025-04-24 15:51:44,950 - ERROR - Failed to add triples for ex_comp:82 -> ex_comp:69: name 'URIRef' is not defined
+2025-04-24 15:51:44,950 - ERROR - Failed to add triples for ex_comp:82 -> ex_comp:80: name 'URIRef' is not defined
+2025-04-24 15:51:44,950 - ERROR - Failed to add triples for ex_comp:69 -> ex_comp:81: name 'URIRef' is not defined
+2025-04-24 15:51:44,950 - ERROR - Failed to add triples for ex_comp:31 -> ex_comp:61: name 'URIRef' is not defined
+2025-04-24 15:51:44,950 - ERROR - Failed to add triples for ex_comp:31 -> ex_comp:94: name 'URIRef' is not defined
+2025-04-24 15:51:44,951 - INFO - Processed 70 companies
+2025-04-24 15:51:44,951 - ERROR - Failed to add triples for ex_comp:63 -> ex_comp:52: name 'URIRef' is not defined
+2025-04-24 15:51:44,951 - ERROR - Failed to add triples for ex_comp:63 -> ex_comp:89: name 'URIRef' is not defined
+2025-04-24 15:51:44,951 - ERROR - Failed to add triples for ex_comp:56 -> ex_comp:17: name 'URIRef' is not defined
+2025-04-24 15:51:44,951 - ERROR - Failed to add triples for ex_comp:56 -> ex_comp:7: name 'URIRef' is not defined
+2025-04-24 15:51:44,951 - ERROR - Failed to add triples for ex_comp:56 -> ex_comp:28: name 'URIRef' is not defined
+2025-04-24 15:51:44,952 - ERROR - Failed to add triples for ex_comp:61 -> ex_comp:42: name 'URIRef' is not defined
+2025-04-24 15:51:44,952 - ERROR - Failed to add triples for ex_comp:28 -> ex_comp:8: name 'URIRef' is not defined
+2025-04-24 15:51:44,952 - ERROR - Failed to add triples for ex_comp:28 -> ex_comp:55: name 'URIRef' is not defined
+2025-04-24 15:51:44,952 - ERROR - Failed to add triples for ex_comp:64 -> ex_comp:97: name 'URIRef' is not defined
+2025-04-24 15:51:44,952 - ERROR - Failed to add triples for ex_comp:50 -> ex_comp:34: name 'URIRef' is not defined
+2025-04-24 15:51:44,953 - ERROR - Failed to add triples for ex_comp:50 -> ex_comp:59: name 'URIRef' is not defined
+2025-04-24 15:51:44,953 - ERROR - Failed to add triples for ex_comp:71 -> ex_comp:9: name 'URIRef' is not defined
+2025-04-24 15:51:44,953 - ERROR - Failed to add triples for ex_comp:71 -> ex_comp:72: name 'URIRef' is not defined
+2025-04-24 15:51:44,953 - ERROR - Failed to add triples for ex_comp:71 -> ex_comp:57: name 'URIRef' is not defined
+2025-04-24 15:51:44,953 - ERROR - Failed to add triples for ex_comp:67 -> ex_comp:94: name 'URIRef' is not defined
+2025-04-24 15:51:44,953 - ERROR - Failed to add triples for ex_comp:2 -> ex_comp:42: name 'URIRef' is not defined
+2025-04-24 15:51:44,954 - ERROR - Failed to add triples for ex_comp:2 -> ex_comp:33: name 'URIRef' is not defined
+2025-04-24 15:51:44,954 - ERROR - Failed to add triples for ex_comp:2 -> ex_comp:90: name 'URIRef' is not defined
+2025-04-24 15:51:44,954 - ERROR - Failed to add triples for ex_comp:88 -> ex_comp:20: name 'URIRef' is not defined
+2025-04-24 15:51:44,954 - ERROR - Failed to add triples for ex_comp:88 -> ex_comp:48: name 'URIRef' is not defined
+2025-04-24 15:51:44,954 - INFO - Processed 80 companies
+2025-04-24 15:51:44,954 - ERROR - Failed to add triples for ex_comp:62 -> ex_comp:31: name 'URIRef' is not defined
+2025-04-24 15:51:44,955 - ERROR - Failed to add triples for ex_comp:62 -> ex_comp:59: name 'URIRef' is not defined
+2025-04-24 15:51:44,955 - ERROR - Failed to add triples for ex_comp:62 -> ex_comp:30: name 'URIRef' is not defined
+2025-04-24 15:51:44,955 - ERROR - Failed to add triples for ex_comp:38 -> ex_comp:30: name 'URIRef' is not defined
+2025-04-24 15:51:44,955 - ERROR - Failed to add triples for ex_comp:12 -> ex_comp:66: name 'URIRef' is not defined
+2025-04-24 15:51:44,956 - ERROR - Failed to add triples for ex_comp:12 -> ex_comp:3: name 'URIRef' is not defined
+2025-04-24 15:51:44,956 - ERROR - Failed to add triples for ex_comp:12 -> ex_comp:58: name 'URIRef' is not defined
+2025-04-24 15:51:44,956 - ERROR - Failed to add triples for ex_comp:60 -> ex_comp:82: name 'URIRef' is not defined
+2025-04-24 15:51:44,956 - ERROR - Failed to add triples for ex_comp:60 -> ex_comp:32: name 'URIRef' is not defined
+2025-04-24 15:51:44,957 - ERROR - Failed to add triples for ex_comp:60 -> ex_comp:61: name 'URIRef' is not defined
+2025-04-24 15:51:44,957 - ERROR - Failed to add triples for ex_comp:9 -> ex_comp:30: name 'URIRef' is not defined
+2025-04-24 15:51:44,957 - ERROR - Failed to add triples for ex_comp:9 -> ex_comp:9: name 'URIRef' is not defined
+2025-04-24 15:51:44,957 - ERROR - Failed to add triples for ex_comp:29 -> ex_comp:38: name 'URIRef' is not defined
+2025-04-24 15:51:44,958 - ERROR - Failed to add triples for ex_comp:29 -> ex_comp:6: name 'URIRef' is not defined
+2025-04-24 15:51:44,958 - ERROR - Failed to add triples for ex_comp:29 -> ex_comp:67: name 'URIRef' is not defined
+2025-04-24 15:51:44,959 - ERROR - Failed to add triples for ex_comp:8 -> ex_comp:68: name 'URIRef' is not defined
+2025-04-24 15:51:44,959 - ERROR - Failed to add triples for ex_comp:8 -> ex_comp:23: name 'URIRef' is not defined
+2025-04-24 15:51:44,959 - ERROR - Failed to add triples for ex_comp:8 -> ex_comp:74: name 'URIRef' is not defined
+2025-04-24 15:51:44,960 - ERROR - Failed to add triples for ex_comp:4 -> ex_comp:36: name 'URIRef' is not defined
+2025-04-24 15:51:44,960 - ERROR - Failed to add triples for ex_comp:4 -> ex_comp:84: name 'URIRef' is not defined
+2025-04-24 15:51:44,961 - ERROR - Failed to add triples for ex_comp:59 -> ex_comp:90: name 'URIRef' is not defined
+2025-04-24 15:51:44,961 - ERROR - Failed to add triples for ex_comp:59 -> ex_comp:76: name 'URIRef' is not defined
+2025-04-24 15:51:44,962 - ERROR - Failed to add triples for ex_comp:59 -> ex_comp:18: name 'URIRef' is not defined
+2025-04-24 15:51:44,962 - ERROR - Failed to add triples for ex_comp:48 -> ex_comp:8: name 'URIRef' is not defined
+2025-04-24 15:51:44,962 - ERROR - Failed to add triples for ex_comp:48 -> ex_comp:39: name 'URIRef' is not defined
+2025-04-24 15:51:44,963 - INFO - Processed 90 companies
+2025-04-24 15:51:44,963 - ERROR - Failed to add triples for ex_comp:36 -> ex_comp:2: name 'URIRef' is not defined
+2025-04-24 15:51:44,963 - ERROR - Failed to add triples for ex_comp:36 -> ex_comp:73: name 'URIRef' is not defined
+2025-04-24 15:51:44,963 - ERROR - Failed to add triples for ex_comp:36 -> ex_comp:89: name 'URIRef' is not defined
+2025-04-24 15:51:44,964 - ERROR - Failed to add triples for ex_comp:95 -> ex_comp:88: name 'URIRef' is not defined
+2025-04-24 15:51:44,964 - ERROR - Failed to add triples for ex_comp:37 -> ex_comp:39: name 'URIRef' is not defined
+2025-04-24 15:51:44,964 - ERROR - Failed to add triples for ex_comp:92 -> ex_comp:30: name 'URIRef' is not defined
+2025-04-24 15:51:44,964 - ERROR - Failed to add triples for ex_comp:92 -> ex_comp:16: name 'URIRef' is not defined
+2025-04-24 15:51:44,965 - ERROR - Failed to add triples for ex_comp:92 -> ex_comp:100: name 'URIRef' is not defined
+2025-04-24 15:51:44,965 - ERROR - Failed to add triples for ex_comp:65 -> ex_comp:92: name 'URIRef' is not defined
+2025-04-24 15:51:44,965 - ERROR - Failed to add triples for ex_comp:51 -> ex_comp:10: name 'URIRef' is not defined
+2025-04-24 15:51:44,966 - ERROR - Failed to add triples for ex_comp:51 -> ex_comp:75: name 'URIRef' is not defined
+2025-04-24 15:51:44,966 - ERROR - Failed to add triples for ex_comp:47 -> ex_comp:5: name 'URIRef' is not defined
+2025-04-24 15:51:44,966 - ERROR - Failed to add triples for ex_comp:47 -> ex_comp:42: name 'URIRef' is not defined
+2025-04-24 15:51:44,967 - ERROR - Failed to add triples for ex_comp:83 -> ex_comp:70: name 'URIRef' is not defined
+2025-04-24 15:51:44,967 - ERROR - Failed to add triples for ex_comp:41 -> ex_comp:88: name 'URIRef' is not defined
+2025-04-24 15:51:44,967 - ERROR - Failed to add triples for ex_comp:41 -> ex_comp:45: name 'URIRef' is not defined
+2025-04-24 15:51:44,968 - ERROR - Failed to add triples for ex_comp:54 -> ex_comp:74: name 'URIRef' is not defined
+2025-04-24 15:51:44,968 - ERROR - Failed to add triples for ex_comp:54 -> ex_comp:49: name 'URIRef' is not defined
+2025-04-24 15:51:44,968 - ERROR - Failed to add triples for ex_comp:54 -> ex_comp:50: name 'URIRef' is not defined
+2025-04-24 15:51:44,969 - INFO - Processed 100 companies
+2025-04-24 15:51:44,969 - INFO - Saving updated graph to Augemented_Testdataset.ttl
+2025-04-24 15:51:44,987 - INFO - Done. Ownership edges added and file saved.
+2025-04-24 15:53:46,893 - INFO - Loading RDF data from Testdataset.rdf
+2025-04-24 15:53:46,917 - INFO - Extracting company URIs from the graph
+2025-04-24 15:53:47,010 - INFO - Found 100 companies
+2025-04-24 15:53:47,011 - INFO - Generating synthetic ownership edges
+2025-04-24 15:53:47,012 - INFO - Processed 10 companies
+2025-04-24 15:53:47,013 - INFO - Processed 20 companies
+2025-04-24 15:53:47,014 - INFO - Processed 30 companies
+2025-04-24 15:53:47,014 - INFO - Processed 40 companies
+2025-04-24 15:53:47,015 - INFO - Processed 50 companies
+2025-04-24 15:53:47,016 - INFO - Processed 60 companies
+2025-04-24 15:53:47,016 - INFO - Processed 70 companies
+2025-04-24 15:53:47,017 - INFO - Processed 80 companies
+2025-04-24 15:53:47,018 - INFO - Processed 90 companies
+2025-04-24 15:53:47,018 - INFO - Processed 100 companies
+2025-04-24 15:53:47,018 - INFO - Saving updated graph to Augemented_Testdataset.ttl
+2025-04-24 15:53:47,042 - INFO - Done. Ownership edges added and file saved.
+2025-04-25 13:57:26,890 - INFO - Loading RDF data from Testdataset.rdf
+2025-04-25 13:58:07,646 - INFO - Loading RDF data from data/Testdataset.rdf
+2025-04-25 13:58:07,671 - INFO - Extracting company URIs from the graph
+2025-04-25 13:58:07,801 - INFO - Found 100 companies
+2025-04-25 13:58:07,801 - INFO - Generating synthetic ownership edges with percentages
+2025-04-25 13:58:07,802 - ERROR - Failed to add triples for ex_comp:2 -> ex_comp:98: name 'uuid' is not defined
+2025-04-25 13:58:07,802 - ERROR - Failed to add triples for ex_comp:91 -> ex_comp:27: name 'uuid' is not defined
+2025-04-25 13:58:07,803 - ERROR - Failed to add triples for ex_comp:91 -> ex_comp:69: name 'uuid' is not defined
+2025-04-25 13:58:07,803 - ERROR - Failed to add triples for ex_comp:91 -> ex_comp:78: name 'uuid' is not defined
+2025-04-25 13:58:07,803 - ERROR - Failed to add triples for ex_comp:25 -> ex_comp:77: name 'uuid' is not defined
+2025-04-25 13:58:07,804 - ERROR - Failed to add triples for ex_comp:25 -> ex_comp:79: name 'uuid' is not defined
+2025-04-25 13:58:07,804 - ERROR - Failed to add triples for ex_comp:55 -> ex_comp:25: name 'uuid' is not defined
+2025-04-25 13:58:07,804 - ERROR - Failed to add triples for ex_comp:55 -> ex_comp:89: name 'uuid' is not defined
+2025-04-25 13:58:07,805 - ERROR - Failed to add triples for ex_comp:55 -> ex_comp:39: name 'uuid' is not defined
+2025-04-25 13:58:07,805 - ERROR - Failed to add triples for ex_comp:98 -> ex_comp:32: name 'uuid' is not defined
+2025-04-25 13:58:07,805 - ERROR - Failed to add triples for ex_comp:17 -> ex_comp:88: name 'uuid' is not defined
+2025-04-25 13:58:07,805 - ERROR - Failed to add triples for ex_comp:17 -> ex_comp:66: name 'uuid' is not defined
+2025-04-25 13:58:07,806 - ERROR - Failed to add triples for ex_comp:17 -> ex_comp:49: name 'uuid' is not defined
+2025-04-25 13:58:07,806 - ERROR - Failed to add triples for ex_comp:59 -> ex_comp:89: name 'uuid' is not defined
+2025-04-25 13:58:07,806 - ERROR - Failed to add triples for ex_comp:59 -> ex_comp:29: name 'uuid' is not defined
+2025-04-25 13:58:07,806 - ERROR - Failed to add triples for ex_comp:42 -> ex_comp:4: name 'uuid' is not defined
+2025-04-25 13:58:07,807 - ERROR - Failed to add triples for ex_comp:42 -> ex_comp:1: name 'uuid' is not defined
+2025-04-25 13:58:07,807 - ERROR - Failed to add triples for ex_comp:79 -> ex_comp:47: name 'uuid' is not defined
+2025-04-25 13:58:07,807 - ERROR - Failed to add triples for ex_comp:71 -> ex_comp:84: name 'uuid' is not defined
+2025-04-25 13:58:07,808 - ERROR - Failed to add triples for ex_comp:71 -> ex_comp:35: name 'uuid' is not defined
+2025-04-25 13:58:07,808 - ERROR - Failed to add triples for ex_comp:71 -> ex_comp:74: name 'uuid' is not defined
+2025-04-25 13:58:07,808 - INFO - Processed 10 companies
+2025-04-25 13:58:07,809 - ERROR - Failed to add triples for ex_comp:46 -> ex_comp:66: name 'uuid' is not defined
+2025-04-25 13:58:07,809 - ERROR - Failed to add triples for ex_comp:93 -> ex_comp:43: name 'uuid' is not defined
+2025-04-25 13:58:07,809 - ERROR - Failed to add triples for ex_comp:87 -> ex_comp:34: name 'uuid' is not defined
+2025-04-25 13:58:07,809 - ERROR - Failed to add triples for ex_comp:87 -> ex_comp:4: name 'uuid' is not defined
+2025-04-25 13:58:07,810 - ERROR - Failed to add triples for ex_comp:29 -> ex_comp:20: name 'uuid' is not defined
+2025-04-25 13:58:07,810 - ERROR - Failed to add triples for ex_comp:30 -> ex_comp:54: name 'uuid' is not defined
+2025-04-25 13:58:07,810 - ERROR - Failed to add triples for ex_comp:30 -> ex_comp:42: name 'uuid' is not defined
+2025-04-25 13:58:07,810 - ERROR - Failed to add triples for ex_comp:49 -> ex_comp:7: name 'uuid' is not defined
+2025-04-25 13:58:07,811 - ERROR - Failed to add triples for ex_comp:49 -> ex_comp:72: name 'uuid' is not defined
+2025-04-25 13:58:07,811 - ERROR - Failed to add triples for ex_comp:49 -> ex_comp:68: name 'uuid' is not defined
+2025-04-25 13:58:07,811 - ERROR - Failed to add triples for ex_comp:75 -> ex_comp:71: name 'uuid' is not defined
+2025-04-25 13:58:07,811 - ERROR - Failed to add triples for ex_comp:75 -> ex_comp:54: name 'uuid' is not defined
+2025-04-25 13:58:07,812 - ERROR - Failed to add triples for ex_comp:41 -> ex_comp:95: name 'uuid' is not defined
+2025-04-25 13:58:07,812 - ERROR - Failed to add triples for ex_comp:41 -> ex_comp:100: name 'uuid' is not defined
+2025-04-25 13:58:07,812 - ERROR - Failed to add triples for ex_comp:4 -> ex_comp:8: name 'uuid' is not defined
+2025-04-25 13:58:07,813 - ERROR - Failed to add triples for ex_comp:4 -> ex_comp:53: name 'uuid' is not defined
+2025-04-25 13:58:07,813 - ERROR - Failed to add triples for ex_comp:4 -> ex_comp:23: name 'uuid' is not defined
+2025-04-25 13:58:07,814 - ERROR - Failed to add triples for ex_comp:81 -> ex_comp:28: name 'uuid' is not defined
+2025-04-25 13:58:07,814 - INFO - Processed 20 companies
+2025-04-25 13:58:07,815 - ERROR - Failed to add triples for ex_comp:89 -> ex_comp:27: name 'uuid' is not defined
+2025-04-25 13:58:07,816 - ERROR - Failed to add triples for ex_comp:89 -> ex_comp:49: name 'uuid' is not defined
+2025-04-25 13:58:07,816 - ERROR - Failed to add triples for ex_comp:85 -> ex_comp:5: name 'uuid' is not defined
+2025-04-25 13:58:07,816 - ERROR - Failed to add triples for ex_comp:85 -> ex_comp:77: name 'uuid' is not defined
+2025-04-25 13:58:07,817 - ERROR - Failed to add triples for ex_comp:97 -> ex_comp:39: name 'uuid' is not defined
+2025-04-25 13:58:07,817 - ERROR - Failed to add triples for ex_comp:97 -> ex_comp:82: name 'uuid' is not defined
+2025-04-25 13:58:07,817 - ERROR - Failed to add triples for ex_comp:44 -> ex_comp:20: name 'uuid' is not defined
+2025-04-25 13:58:07,818 - ERROR - Failed to add triples for ex_comp:44 -> ex_comp:31: name 'uuid' is not defined
+2025-04-25 13:58:07,818 - ERROR - Failed to add triples for ex_comp:44 -> ex_comp:7: name 'uuid' is not defined
+2025-04-25 13:58:07,818 - ERROR - Failed to add triples for ex_comp:52 -> ex_comp:11: name 'uuid' is not defined
+2025-04-25 13:58:07,819 - ERROR - Failed to add triples for ex_comp:52 -> ex_comp:45: name 'uuid' is not defined
+2025-04-25 13:58:07,819 - ERROR - Failed to add triples for ex_comp:52 -> ex_comp:21: name 'uuid' is not defined
+2025-04-25 13:58:07,819 - ERROR - Failed to add triples for ex_comp:11 -> ex_comp:32: name 'uuid' is not defined
+2025-04-25 13:58:07,820 - ERROR - Failed to add triples for ex_comp:11 -> ex_comp:61: name 'uuid' is not defined
+2025-04-25 13:58:07,820 - ERROR - Failed to add triples for ex_comp:11 -> ex_comp:89: name 'uuid' is not defined
+2025-04-25 13:58:07,820 - ERROR - Failed to add triples for ex_comp:88 -> ex_comp:10: name 'uuid' is not defined
+2025-04-25 13:58:07,820 - ERROR - Failed to add triples for ex_comp:50 -> ex_comp:11: name 'uuid' is not defined
+2025-04-25 13:58:07,821 - ERROR - Failed to add triples for ex_comp:50 -> ex_comp:4: name 'uuid' is not defined
+2025-04-25 13:58:07,821 - ERROR - Failed to add triples for ex_comp:56 -> ex_comp:28: name 'uuid' is not defined
+2025-04-25 13:58:07,821 - ERROR - Failed to add triples for ex_comp:56 -> ex_comp:7: name 'uuid' is not defined
+2025-04-25 13:58:07,821 - ERROR - Failed to add triples for ex_comp:56 -> ex_comp:67: name 'uuid' is not defined
+2025-04-25 13:58:07,821 - ERROR - Failed to add triples for ex_comp:13 -> ex_comp:71: name 'uuid' is not defined
+2025-04-25 13:58:07,822 - ERROR - Failed to add triples for ex_comp:13 -> ex_comp:36: name 'uuid' is not defined
+2025-04-25 13:58:07,822 - INFO - Processed 30 companies
+2025-04-25 13:58:07,822 - ERROR - Failed to add triples for ex_comp:35 -> ex_comp:96: name 'uuid' is not defined
+2025-04-25 13:58:07,823 - ERROR - Failed to add triples for ex_comp:35 -> ex_comp:44: name 'uuid' is not defined
+2025-04-25 13:58:07,823 - ERROR - Failed to add triples for ex_comp:35 -> ex_comp:78: name 'uuid' is not defined
+2025-04-25 13:58:07,823 - ERROR - Failed to add triples for ex_comp:38 -> ex_comp:79: name 'uuid' is not defined
+2025-04-25 13:58:07,824 - ERROR - Failed to add triples for ex_comp:28 -> ex_comp:23: name 'uuid' is not defined
+2025-04-25 13:58:07,824 - ERROR - Failed to add triples for ex_comp:28 -> ex_comp:56: name 'uuid' is not defined
+2025-04-25 13:58:07,824 - ERROR - Failed to add triples for ex_comp:37 -> ex_comp:56: name 'uuid' is not defined
+2025-04-25 13:58:07,824 - ERROR - Failed to add triples for ex_comp:37 -> ex_comp:33: name 'uuid' is not defined
+2025-04-25 13:58:07,825 - ERROR - Failed to add triples for ex_comp:62 -> ex_comp:78: name 'uuid' is not defined
+2025-04-25 13:58:07,825 - ERROR - Failed to add triples for ex_comp:58 -> ex_comp:24: name 'uuid' is not defined
+2025-04-25 13:58:07,825 - ERROR - Failed to add triples for ex_comp:3 -> ex_comp:86: name 'uuid' is not defined
+2025-04-25 13:58:07,826 - ERROR - Failed to add triples for ex_comp:95 -> ex_comp:76: name 'uuid' is not defined
+2025-04-25 13:58:07,826 - ERROR - Failed to add triples for ex_comp:23 -> ex_comp:83: name 'uuid' is not defined
+2025-04-25 13:58:07,826 - ERROR - Failed to add triples for ex_comp:23 -> ex_comp:53: name 'uuid' is not defined
+2025-04-25 13:58:07,827 - ERROR - Failed to add triples for ex_comp:61 -> ex_comp:56: name 'uuid' is not defined
+2025-04-25 13:58:07,827 - INFO - Processed 40 companies
+2025-04-25 13:58:07,827 - ERROR - Failed to add triples for ex_comp:80 -> ex_comp:26: name 'uuid' is not defined
+2025-04-25 13:58:07,827 - ERROR - Failed to add triples for ex_comp:19 -> ex_comp:32: name 'uuid' is not defined
+2025-04-25 13:58:07,828 - ERROR - Failed to add triples for ex_comp:19 -> ex_comp:53: name 'uuid' is not defined
+2025-04-25 13:58:07,828 - ERROR - Failed to add triples for ex_comp:27 -> ex_comp:70: name 'uuid' is not defined
+2025-04-25 13:58:07,828 - ERROR - Failed to add triples for ex_comp:27 -> ex_comp:19: name 'uuid' is not defined
+2025-04-25 13:58:07,828 - ERROR - Failed to add triples for ex_comp:27 -> ex_comp:22: name 'uuid' is not defined
+2025-04-25 13:58:07,829 - ERROR - Failed to add triples for ex_comp:65 -> ex_comp:46: name 'uuid' is not defined
+2025-04-25 13:58:07,829 - ERROR - Failed to add triples for ex_comp:65 -> ex_comp:93: name 'uuid' is not defined
+2025-04-25 13:58:07,829 - ERROR - Failed to add triples for ex_comp:65 -> ex_comp:6: name 'uuid' is not defined
+2025-04-25 13:58:07,829 - ERROR - Failed to add triples for ex_comp:67 -> ex_comp:40: name 'uuid' is not defined
+2025-04-25 13:58:07,830 - ERROR - Failed to add triples for ex_comp:67 -> ex_comp:71: name 'uuid' is not defined
+2025-04-25 13:58:07,830 - ERROR - Failed to add triples for ex_comp:84 -> ex_comp:86: name 'uuid' is not defined
+2025-04-25 13:58:07,830 - ERROR - Failed to add triples for ex_comp:72 -> ex_comp:40: name 'uuid' is not defined
+2025-04-25 13:58:07,830 - ERROR - Failed to add triples for ex_comp:73 -> ex_comp:52: name 'uuid' is not defined
+2025-04-25 13:58:07,831 - ERROR - Failed to add triples for ex_comp:60 -> ex_comp:59: name 'uuid' is not defined
+2025-04-25 13:58:07,831 - ERROR - Failed to add triples for ex_comp:60 -> ex_comp:8: name 'uuid' is not defined
+2025-04-25 13:58:07,831 - ERROR - Failed to add triples for ex_comp:63 -> ex_comp:2: name 'uuid' is not defined
+2025-04-25 13:58:07,831 - ERROR - Failed to add triples for ex_comp:63 -> ex_comp:57: name 'uuid' is not defined
+2025-04-25 13:58:07,831 - ERROR - Failed to add triples for ex_comp:63 -> ex_comp:53: name 'uuid' is not defined
+2025-04-25 13:58:07,832 - INFO - Processed 50 companies
+2025-04-25 13:58:07,832 - ERROR - Failed to add triples for ex_comp:96 -> ex_comp:29: name 'uuid' is not defined
+2025-04-25 13:58:07,832 - ERROR - Failed to add triples for ex_comp:96 -> ex_comp:21: name 'uuid' is not defined
+2025-04-25 13:58:07,832 - ERROR - Failed to add triples for ex_comp:96 -> ex_comp:68: name 'uuid' is not defined
+2025-04-25 13:58:07,833 - ERROR - Failed to add triples for ex_comp:90 -> ex_comp:58: name 'uuid' is not defined
+2025-04-25 13:58:07,834 - ERROR - Failed to add triples for ex_comp:90 -> ex_comp:15: name 'uuid' is not defined
+2025-04-25 13:58:07,834 - ERROR - Failed to add triples for ex_comp:24 -> ex_comp:72: name 'uuid' is not defined
+2025-04-25 13:58:07,834 - ERROR - Failed to add triples for ex_comp:48 -> ex_comp:70: name 'uuid' is not defined
+2025-04-25 13:58:07,835 - ERROR - Failed to add triples for ex_comp:9 -> ex_comp:32: name 'uuid' is not defined
+2025-04-25 13:58:07,835 - ERROR - Failed to add triples for ex_comp:15 -> ex_comp:51: name 'uuid' is not defined
+2025-04-25 13:58:07,835 - ERROR - Failed to add triples for ex_comp:15 -> ex_comp:26: name 'uuid' is not defined
+2025-04-25 13:58:07,836 - ERROR - Failed to add triples for ex_comp:15 -> ex_comp:68: name 'uuid' is not defined
+2025-04-25 13:58:07,836 - ERROR - Failed to add triples for ex_comp:83 -> ex_comp:8: name 'uuid' is not defined
+2025-04-25 13:58:07,836 - ERROR - Failed to add triples for ex_comp:83 -> ex_comp:6: name 'uuid' is not defined
+2025-04-25 13:58:07,836 - ERROR - Failed to add triples for ex_comp:18 -> ex_comp:66: name 'uuid' is not defined
+2025-04-25 13:58:07,837 - ERROR - Failed to add triples for ex_comp:78 -> ex_comp:39: name 'uuid' is not defined
+2025-04-25 13:58:07,837 - ERROR - Failed to add triples for ex_comp:21 -> ex_comp:60: name 'uuid' is not defined
+2025-04-25 13:58:07,837 - ERROR - Failed to add triples for ex_comp:21 -> ex_comp:18: name 'uuid' is not defined
+2025-04-25 13:58:07,837 - ERROR - Failed to add triples for ex_comp:21 -> ex_comp:72: name 'uuid' is not defined
+2025-04-25 13:58:07,838 - INFO - Processed 60 companies
+2025-04-25 13:58:07,838 - ERROR - Failed to add triples for ex_comp:34 -> ex_comp:66: name 'uuid' is not defined
+2025-04-25 13:58:07,838 - ERROR - Failed to add triples for ex_comp:34 -> ex_comp:37: name 'uuid' is not defined
+2025-04-25 13:58:07,838 - ERROR - Failed to add triples for ex_comp:34 -> ex_comp:80: name 'uuid' is not defined
+2025-04-25 13:58:07,838 - ERROR - Failed to add triples for ex_comp:1 -> ex_comp:49: name 'uuid' is not defined
+2025-04-25 13:58:07,839 - ERROR - Failed to add triples for ex_comp:1 -> ex_comp:80: name 'uuid' is not defined
+2025-04-25 13:58:07,839 - ERROR - Failed to add triples for ex_comp:1 -> ex_comp:52: name 'uuid' is not defined
+2025-04-25 13:58:07,839 - ERROR - Failed to add triples for ex_comp:43 -> ex_comp:55: name 'uuid' is not defined
+2025-04-25 13:58:07,839 - ERROR - Failed to add triples for ex_comp:43 -> ex_comp:73: name 'uuid' is not defined
+2025-04-25 13:58:07,840 - ERROR - Failed to add triples for ex_comp:47 -> ex_comp:19: name 'uuid' is not defined
+2025-04-25 13:58:07,840 - ERROR - Failed to add triples for ex_comp:47 -> ex_comp:13: name 'uuid' is not defined
+2025-04-25 13:58:07,840 - ERROR - Failed to add triples for ex_comp:47 -> ex_comp:94: name 'uuid' is not defined
+2025-04-25 13:58:07,840 - ERROR - Failed to add triples for ex_comp:12 -> ex_comp:94: name 'uuid' is not defined
+2025-04-25 13:58:07,841 - ERROR - Failed to add triples for ex_comp:12 -> ex_comp:52: name 'uuid' is not defined
+2025-04-25 13:58:07,841 - ERROR - Failed to add triples for ex_comp:26 -> ex_comp:79: name 'uuid' is not defined
+2025-04-25 13:58:07,841 - ERROR - Failed to add triples for ex_comp:22 -> ex_comp:59: name 'uuid' is not defined
+2025-04-25 13:58:07,841 - ERROR - Failed to add triples for ex_comp:22 -> ex_comp:58: name 'uuid' is not defined
+2025-04-25 13:58:07,841 - ERROR - Failed to add triples for ex_comp:22 -> ex_comp:40: name 'uuid' is not defined
+2025-04-25 13:58:07,842 - ERROR - Failed to add triples for ex_comp:32 -> ex_comp:98: name 'uuid' is not defined
+2025-04-25 13:58:07,842 - ERROR - Failed to add triples for ex_comp:10 -> ex_comp:56: name 'uuid' is not defined
+2025-04-25 13:58:07,842 - ERROR - Failed to add triples for ex_comp:10 -> ex_comp:6: name 'uuid' is not defined
+2025-04-25 13:58:07,843 - ERROR - Failed to add triples for ex_comp:10 -> ex_comp:68: name 'uuid' is not defined
+2025-04-25 13:58:07,843 - ERROR - Failed to add triples for ex_comp:5 -> ex_comp:84: name 'uuid' is not defined
+2025-04-25 13:58:07,843 - ERROR - Failed to add triples for ex_comp:5 -> ex_comp:32: name 'uuid' is not defined
+2025-04-25 13:58:07,844 - ERROR - Failed to add triples for ex_comp:5 -> ex_comp:100: name 'uuid' is not defined
+2025-04-25 13:58:07,844 - INFO - Processed 70 companies
+2025-04-25 13:58:07,844 - ERROR - Failed to add triples for ex_comp:86 -> ex_comp:75: name 'uuid' is not defined
+2025-04-25 13:58:07,845 - ERROR - Failed to add triples for ex_comp:86 -> ex_comp:84: name 'uuid' is not defined
+2025-04-25 13:58:07,845 - ERROR - Failed to add triples for ex_comp:57 -> ex_comp:84: name 'uuid' is not defined
+2025-04-25 13:58:07,846 - ERROR - Failed to add triples for ex_comp:57 -> ex_comp:93: name 'uuid' is not defined
+2025-04-25 13:58:07,846 - ERROR - Failed to add triples for ex_comp:57 -> ex_comp:13: name 'uuid' is not defined
+2025-04-25 13:58:07,846 - ERROR - Failed to add triples for ex_comp:82 -> ex_comp:27: name 'uuid' is not defined
+2025-04-25 13:58:07,846 - ERROR - Failed to add triples for ex_comp:82 -> ex_comp:67: name 'uuid' is not defined
+2025-04-25 13:58:07,847 - ERROR - Failed to add triples for ex_comp:92 -> ex_comp:98: name 'uuid' is not defined
+2025-04-25 13:58:07,847 - ERROR - Failed to add triples for ex_comp:94 -> ex_comp:13: name 'uuid' is not defined
+2025-04-25 13:58:07,847 - ERROR - Failed to add triples for ex_comp:94 -> ex_comp:47: name 'uuid' is not defined
+2025-04-25 13:58:07,847 - ERROR - Failed to add triples for ex_comp:54 -> ex_comp:32: name 'uuid' is not defined
+2025-04-25 13:58:07,847 - ERROR - Failed to add triples for ex_comp:54 -> ex_comp:21: name 'uuid' is not defined
+2025-04-25 13:58:07,848 - ERROR - Failed to add triples for ex_comp:45 -> ex_comp:77: name 'uuid' is not defined
+2025-04-25 13:58:07,848 - ERROR - Failed to add triples for ex_comp:45 -> ex_comp:35: name 'uuid' is not defined
+2025-04-25 13:58:07,849 - ERROR - Failed to add triples for ex_comp:14 -> ex_comp:4: name 'uuid' is not defined
+2025-04-25 13:58:07,849 - ERROR - Failed to add triples for ex_comp:68 -> ex_comp:11: name 'uuid' is not defined
+2025-04-25 13:58:07,850 - ERROR - Failed to add triples for ex_comp:68 -> ex_comp:56: name 'uuid' is not defined
+2025-04-25 13:58:07,850 - ERROR - Failed to add triples for ex_comp:68 -> ex_comp:39: name 'uuid' is not defined
+2025-04-25 13:58:07,850 - ERROR - Failed to add triples for ex_comp:64 -> ex_comp:1: name 'uuid' is not defined
+2025-04-25 13:58:07,850 - INFO - Processed 80 companies
+2025-04-25 13:58:07,851 - ERROR - Failed to add triples for ex_comp:100 -> ex_comp:27: name 'uuid' is not defined
+2025-04-25 13:58:07,851 - ERROR - Failed to add triples for ex_comp:100 -> ex_comp:81: name 'uuid' is not defined
+2025-04-25 13:58:07,851 - ERROR - Failed to add triples for ex_comp:100 -> ex_comp:78: name 'uuid' is not defined
+2025-04-25 13:58:07,851 - ERROR - Failed to add triples for ex_comp:20 -> ex_comp:11: name 'uuid' is not defined
+2025-04-25 13:58:07,852 - ERROR - Failed to add triples for ex_comp:51 -> ex_comp:17: name 'uuid' is not defined
+2025-04-25 13:58:07,852 - ERROR - Failed to add triples for ex_comp:77 -> ex_comp:45: name 'uuid' is not defined
+2025-04-25 13:58:07,852 - ERROR - Failed to add triples for ex_comp:77 -> ex_comp:6: name 'uuid' is not defined
+2025-04-25 13:58:07,853 - ERROR - Failed to add triples for ex_comp:77 -> ex_comp:99: name 'uuid' is not defined
+2025-04-25 13:58:07,853 - ERROR - Failed to add triples for ex_comp:76 -> ex_comp:36: name 'uuid' is not defined
+2025-04-25 13:58:07,854 - ERROR - Failed to add triples for ex_comp:76 -> ex_comp:70: name 'uuid' is not defined
+2025-04-25 13:58:07,854 - ERROR - Failed to add triples for ex_comp:76 -> ex_comp:45: name 'uuid' is not defined
+2025-04-25 13:58:07,855 - ERROR - Failed to add triples for ex_comp:33 -> ex_comp:61: name 'uuid' is not defined
+2025-04-25 13:58:07,855 - ERROR - Failed to add triples for ex_comp:33 -> ex_comp:16: name 'uuid' is not defined
+2025-04-25 13:58:07,855 - ERROR - Failed to add triples for ex_comp:33 -> ex_comp:36: name 'uuid' is not defined
+2025-04-25 13:58:07,855 - ERROR - Failed to add triples for ex_comp:6 -> ex_comp:40: name 'uuid' is not defined
+2025-04-25 13:58:07,855 - ERROR - Failed to add triples for ex_comp:36 -> ex_comp:40: name 'uuid' is not defined
+2025-04-25 13:58:07,856 - ERROR - Failed to add triples for ex_comp:53 -> ex_comp:51: name 'uuid' is not defined
+2025-04-25 13:58:07,856 - ERROR - Failed to add triples for ex_comp:53 -> ex_comp:48: name 'uuid' is not defined
+2025-04-25 13:58:07,856 - ERROR - Failed to add triples for ex_comp:7 -> ex_comp:16: name 'uuid' is not defined
+2025-04-25 13:58:07,857 - INFO - Processed 90 companies
+2025-04-25 13:58:07,857 - ERROR - Failed to add triples for ex_comp:8 -> ex_comp:46: name 'uuid' is not defined
+2025-04-25 13:58:07,857 - ERROR - Failed to add triples for ex_comp:8 -> ex_comp:97: name 'uuid' is not defined
+2025-04-25 13:58:07,857 - ERROR - Failed to add triples for ex_comp:40 -> ex_comp:92: name 'uuid' is not defined
+2025-04-25 13:58:07,858 - ERROR - Failed to add triples for ex_comp:66 -> ex_comp:6: name 'uuid' is not defined
+2025-04-25 13:58:07,858 - ERROR - Failed to add triples for ex_comp:66 -> ex_comp:38: name 'uuid' is not defined
+2025-04-25 13:58:07,858 - ERROR - Failed to add triples for ex_comp:69 -> ex_comp:29: name 'uuid' is not defined
+2025-04-25 13:58:07,859 - ERROR - Failed to add triples for ex_comp:69 -> ex_comp:14: name 'uuid' is not defined
+2025-04-25 13:58:07,859 - ERROR - Failed to add triples for ex_comp:69 -> ex_comp:79: name 'uuid' is not defined
+2025-04-25 13:58:07,859 - ERROR - Failed to add triples for ex_comp:70 -> ex_comp:1: name 'uuid' is not defined
+2025-04-25 13:58:07,860 - ERROR - Failed to add triples for ex_comp:70 -> ex_comp:27: name 'uuid' is not defined
+2025-04-25 13:58:07,860 - ERROR - Failed to add triples for ex_comp:70 -> ex_comp:54: name 'uuid' is not defined
+2025-04-25 13:58:07,860 - ERROR - Failed to add triples for ex_comp:39 -> ex_comp:93: name 'uuid' is not defined
+2025-04-25 13:58:07,861 - ERROR - Failed to add triples for ex_comp:39 -> ex_comp:68: name 'uuid' is not defined
+2025-04-25 13:58:07,861 - ERROR - Failed to add triples for ex_comp:39 -> ex_comp:59: name 'uuid' is not defined
+2025-04-25 13:58:07,861 - ERROR - Failed to add triples for ex_comp:74 -> ex_comp:76: name 'uuid' is not defined
+2025-04-25 13:58:07,861 - ERROR - Failed to add triples for ex_comp:31 -> ex_comp:94: name 'uuid' is not defined
+2025-04-25 13:58:07,862 - ERROR - Failed to add triples for ex_comp:31 -> ex_comp:87: name 'uuid' is not defined
+2025-04-25 13:58:07,862 - ERROR - Failed to add triples for ex_comp:99 -> ex_comp:57: name 'uuid' is not defined
+2025-04-25 13:58:07,863 - ERROR - Failed to add triples for ex_comp:99 -> ex_comp:9: name 'uuid' is not defined
+2025-04-25 13:58:07,863 - ERROR - Failed to add triples for ex_comp:16 -> ex_comp:41: name 'uuid' is not defined
+2025-04-25 13:58:07,863 - ERROR - Failed to add triples for ex_comp:16 -> ex_comp:9: name 'uuid' is not defined
+2025-04-25 13:58:07,863 - ERROR - Failed to add triples for ex_comp:16 -> ex_comp:73: name 'uuid' is not defined
+2025-04-25 13:58:07,864 - INFO - Processed 100 companies
+2025-04-25 13:58:07,864 - INFO - Saving updated graph to data/Augemented_Testdataset.ttl
+2025-04-25 13:58:07,886 - INFO - Done. Ownership edges added and file saved.
+2025-04-25 14:00:03,524 - INFO - Loading RDF data from Testdataset.rdf
+2025-04-25 14:00:15,273 - INFO - Loading RDF data from data/Testdataset.rdf
+2025-04-25 14:00:15,298 - INFO - Extracting company URIs from the graph
+2025-04-25 14:00:15,325 - INFO - Found 100 companies
+2025-04-25 14:00:15,325 - INFO - Generating synthetic ownership edges
+2025-04-25 14:00:15,326 - INFO - Processed 10 companies
+2025-04-25 14:00:15,327 - INFO - Processed 20 companies
+2025-04-25 14:00:15,328 - INFO - Processed 30 companies
+2025-04-25 14:00:15,328 - INFO - Processed 40 companies
+2025-04-25 14:00:15,329 - INFO - Processed 50 companies
+2025-04-25 14:00:15,330 - INFO - Processed 60 companies
+2025-04-25 14:00:15,330 - INFO - Processed 70 companies
+2025-04-25 14:00:15,331 - INFO - Processed 80 companies
+2025-04-25 14:00:15,332 - INFO - Processed 90 companies
+2025-04-25 14:00:15,333 - INFO - Processed 100 companies
+2025-04-25 14:00:15,333 - INFO - Saving updated graph to data/Augemented_Testdataset.ttl
+2025-04-25 14:00:15,356 - INFO - Done. Ownership edges added and file saved.
+2025-04-25 14:14:45,718 - INFO - Loading RDF data from data/Testdataset.rdf
+2025-04-25 14:14:45,761 - INFO - Extracting company URIs from the graph
+2025-04-25 14:14:45,788 - INFO - Found 100 companies
+2025-04-25 14:14:45,788 - INFO - Generating synthetic ownership edges
+2025-04-25 14:14:45,790 - INFO - Processed 10 companies
+2025-04-25 14:14:45,791 - INFO - Processed 20 companies
+2025-04-25 14:14:45,792 - INFO - Processed 30 companies
+2025-04-25 14:14:45,793 - INFO - Processed 40 companies
+2025-04-25 14:14:45,794 - INFO - Processed 50 companies
+2025-04-25 14:14:45,795 - INFO - Processed 60 companies
+2025-04-25 14:14:45,796 - INFO - Processed 70 companies
+2025-04-25 14:14:45,797 - INFO - Processed 80 companies
+2025-04-25 14:14:45,798 - INFO - Processed 90 companies
+2025-04-25 14:14:45,799 - INFO - Processed 100 companies
+2025-04-25 14:14:45,799 - INFO - Saving updated graph to data/Augemented_Testdataset.ttl
+2025-04-25 14:14:45,826 - INFO - Done. Ownership edges added and file saved.
+2025-04-25 14:19:59,467 - INFO - Loading RDF data from data/Testdataset.rdf
+2025-04-25 14:19:59,489 - INFO - Extracting company URIs from the graph
+2025-04-25 14:19:59,530 - INFO - Found 0 companies
+2025-04-25 14:19:59,530 - INFO - Generating synthetic ownership relationships
+2025-04-25 14:19:59,531 - INFO - Saving updated graph to data/Augemented_Testdataset.ttl
+2025-04-25 14:19:59,548 - INFO - Done. Ownership relationships added and file saved.
+2025-04-25 14:20:21,212 - INFO - Loading RDF data from data/Testdataset.rdf
+2025-04-25 14:20:21,271 - INFO - Extracting company URIs from the graph
+2025-04-25 14:20:21,297 - INFO - Found 100 companies
+2025-04-25 14:20:21,298 - INFO - Generating synthetic ownership edges
+2025-04-25 14:20:21,299 - INFO - Processed 10 companies
+2025-04-25 14:20:21,300 - INFO - Processed 20 companies
+2025-04-25 14:20:21,301 - INFO - Processed 30 companies
+2025-04-25 14:20:21,302 - INFO - Processed 40 companies
+2025-04-25 14:20:21,303 - INFO - Processed 50 companies
+2025-04-25 14:20:21,305 - INFO - Processed 60 companies
+2025-04-25 14:20:21,306 - INFO - Processed 70 companies
+2025-04-25 14:20:21,306 - INFO - Processed 80 companies
+2025-04-25 14:20:21,307 - INFO - Processed 90 companies
+2025-04-25 14:20:21,308 - INFO - Processed 100 companies
+2025-04-25 14:20:21,309 - INFO - Saving updated graph to data/Augemented_Testdataset.ttl
+2025-04-25 14:20:21,336 - INFO - Done. Ownership edges added and file saved.
+2025-04-25 14:20:35,498 - INFO - Loading RDF data from data/Testdataset.rdf
+2025-04-25 14:20:35,522 - INFO - Extracting company URIs from the graph
+2025-04-25 14:20:35,555 - INFO - Found 100 companies
+2025-04-25 14:20:35,557 - INFO - Generating synthetic ownership relationships
+2025-04-25 14:20:35,561 - INFO - Processed 10 companies
+2025-04-25 14:20:35,565 - INFO - Processed 20 companies
+2025-04-25 14:20:35,567 - INFO - Processed 30 companies
+2025-04-25 14:20:35,569 - INFO - Processed 40 companies
+2025-04-25 14:20:35,572 - INFO - Processed 50 companies
+2025-04-25 14:20:35,575 - INFO - Processed 60 companies
+2025-04-25 14:20:35,578 - INFO - Processed 70 companies
+2025-04-25 14:20:35,580 - INFO - Processed 80 companies
+2025-04-25 14:20:35,583 - INFO - Processed 90 companies
+2025-04-25 14:20:35,585 - INFO - Processed 100 companies
+2025-04-25 14:20:35,586 - INFO - Saving updated graph to data/Augemented_Testdataset.ttl
+2025-04-25 14:20:35,623 - INFO - Done. Ownership edges added and file saved.
+2025-04-25 14:25:30,706 - INFO - Loading RDF data from data/Testdataset.rdf
+2025-04-25 14:25:30,748 - INFO - Extracting company URIs from the graph
+2025-04-25 14:25:30,822 - INFO - Found 100 companies
+2025-04-25 14:25:30,823 - INFO - Generating synthetic ownership relationships
+2025-04-25 14:25:30,823 - ERROR - Failed to add triples for ex_comp:2 -> ex_comp:53: Subject (rdflib.term.URIRef('ex_comp:2'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:53')) must be an rdflib term
+2025-04-25 14:25:30,824 - ERROR - Failed to add triples for ex_comp:2 -> ex_comp:99: Subject (rdflib.term.URIRef('ex_comp:2'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:99')) must be an rdflib term
+2025-04-25 14:25:30,824 - ERROR - Failed to add triples for ex_comp:91 -> ex_comp:36: Subject (rdflib.term.URIRef('ex_comp:91'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:36')) must be an rdflib term
+2025-04-25 14:25:30,825 - ERROR - Failed to add triples for ex_comp:91 -> ex_comp:73: Subject (rdflib.term.URIRef('ex_comp:91'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:73')) must be an rdflib term
+2025-04-25 14:25:30,825 - ERROR - Failed to add triples for ex_comp:91 -> ex_comp:58: Subject (rdflib.term.URIRef('ex_comp:91'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:58')) must be an rdflib term
+2025-04-25 14:25:30,825 - ERROR - Failed to add triples for ex_comp:25 -> ex_comp:74: Subject (rdflib.term.URIRef('ex_comp:25'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:74')) must be an rdflib term
+2025-04-25 14:25:30,826 - ERROR - Failed to add triples for ex_comp:55 -> ex_comp:46: Subject (rdflib.term.URIRef('ex_comp:55'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:46')) must be an rdflib term
+2025-04-25 14:25:30,826 - ERROR - Failed to add triples for ex_comp:98 -> ex_comp:93: Subject (rdflib.term.URIRef('ex_comp:98'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:93')) must be an rdflib term
+2025-04-25 14:25:30,827 - ERROR - Failed to add triples for ex_comp:98 -> ex_comp:1: Subject (rdflib.term.URIRef('ex_comp:98'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:1')) must be an rdflib term
+2025-04-25 14:25:30,827 - ERROR - Failed to add triples for ex_comp:17 -> ex_comp:87: Subject (rdflib.term.URIRef('ex_comp:17'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:87')) must be an rdflib term
+2025-04-25 14:25:30,828 - ERROR - Failed to add triples for ex_comp:59 -> ex_comp:78: Subject (rdflib.term.URIRef('ex_comp:59'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:78')) must be an rdflib term
+2025-04-25 14:25:30,828 - ERROR - Failed to add triples for ex_comp:59 -> ex_comp:65: Subject (rdflib.term.URIRef('ex_comp:59'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:65')) must be an rdflib term
+2025-04-25 14:25:30,828 - ERROR - Failed to add triples for ex_comp:59 -> ex_comp:41: Subject (rdflib.term.URIRef('ex_comp:59'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:41')) must be an rdflib term
+2025-04-25 14:25:30,829 - ERROR - Failed to add triples for ex_comp:42 -> ex_comp:46: Subject (rdflib.term.URIRef('ex_comp:42'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:46')) must be an rdflib term
+2025-04-25 14:25:30,829 - ERROR - Failed to add triples for ex_comp:42 -> ex_comp:29: Subject (rdflib.term.URIRef('ex_comp:42'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:29')) must be an rdflib term
+2025-04-25 14:25:30,829 - ERROR - Failed to add triples for ex_comp:79 -> ex_comp:89: Subject (rdflib.term.URIRef('ex_comp:79'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:89')) must be an rdflib term
+2025-04-25 14:25:30,829 - ERROR - Failed to add triples for ex_comp:79 -> ex_comp:65: Subject (rdflib.term.URIRef('ex_comp:79'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:65')) must be an rdflib term
+2025-04-25 14:25:30,830 - ERROR - Failed to add triples for ex_comp:79 -> ex_comp:18: Subject (rdflib.term.URIRef('ex_comp:79'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:18')) must be an rdflib term
+2025-04-25 14:25:30,830 - ERROR - Failed to add triples for ex_comp:71 -> ex_comp:37: Subject (rdflib.term.URIRef('ex_comp:71'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:37')) must be an rdflib term
+2025-04-25 14:25:30,830 - INFO - Processed 10 companies
+2025-04-25 14:25:30,831 - ERROR - Failed to add triples for ex_comp:46 -> ex_comp:11: Subject (rdflib.term.URIRef('ex_comp:46'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:11')) must be an rdflib term
+2025-04-25 14:25:30,831 - ERROR - Failed to add triples for ex_comp:46 -> ex_comp:2: Subject (rdflib.term.URIRef('ex_comp:46'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:2')) must be an rdflib term
+2025-04-25 14:25:30,831 - ERROR - Failed to add triples for ex_comp:93 -> ex_comp:46: Subject (rdflib.term.URIRef('ex_comp:93'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:46')) must be an rdflib term
+2025-04-25 14:25:30,831 - ERROR - Failed to add triples for ex_comp:93 -> ex_comp:63: Subject (rdflib.term.URIRef('ex_comp:93'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:63')) must be an rdflib term
+2025-04-25 14:25:30,832 - ERROR - Failed to add triples for ex_comp:87 -> ex_comp:8: Subject (rdflib.term.URIRef('ex_comp:87'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:8')) must be an rdflib term
+2025-04-25 14:25:30,832 - ERROR - Failed to add triples for ex_comp:29 -> ex_comp:50: Subject (rdflib.term.URIRef('ex_comp:29'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:50')) must be an rdflib term
+2025-04-25 14:25:30,832 - ERROR - Failed to add triples for ex_comp:29 -> ex_comp:25: Subject (rdflib.term.URIRef('ex_comp:29'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:25')) must be an rdflib term
+2025-04-25 14:25:30,832 - ERROR - Failed to add triples for ex_comp:30 -> ex_comp:40: Subject (rdflib.term.URIRef('ex_comp:30'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:40')) must be an rdflib term
+2025-04-25 14:25:30,833 - ERROR - Failed to add triples for ex_comp:49 -> ex_comp:76: Subject (rdflib.term.URIRef('ex_comp:49'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:76')) must be an rdflib term
+2025-04-25 14:25:30,833 - ERROR - Failed to add triples for ex_comp:49 -> ex_comp:50: Subject (rdflib.term.URIRef('ex_comp:49'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:50')) must be an rdflib term
+2025-04-25 14:25:30,833 - ERROR - Failed to add triples for ex_comp:75 -> ex_comp:46: Subject (rdflib.term.URIRef('ex_comp:75'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:46')) must be an rdflib term
+2025-04-25 14:25:30,833 - ERROR - Failed to add triples for ex_comp:75 -> ex_comp:81: Subject (rdflib.term.URIRef('ex_comp:75'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:81')) must be an rdflib term
+2025-04-25 14:25:30,834 - ERROR - Failed to add triples for ex_comp:41 -> ex_comp:12: Subject (rdflib.term.URIRef('ex_comp:41'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:12')) must be an rdflib term
+2025-04-25 14:25:30,834 - ERROR - Failed to add triples for ex_comp:41 -> ex_comp:83: Subject (rdflib.term.URIRef('ex_comp:41'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:83')) must be an rdflib term
+2025-04-25 14:25:30,835 - ERROR - Failed to add triples for ex_comp:41 -> ex_comp:18: Subject (rdflib.term.URIRef('ex_comp:41'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:18')) must be an rdflib term
+2025-04-25 14:25:30,835 - ERROR - Failed to add triples for ex_comp:4 -> ex_comp:68: Subject (rdflib.term.URIRef('ex_comp:4'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:68')) must be an rdflib term
+2025-04-25 14:25:30,835 - ERROR - Failed to add triples for ex_comp:4 -> ex_comp:33: Subject (rdflib.term.URIRef('ex_comp:4'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:33')) must be an rdflib term
+2025-04-25 14:25:30,836 - ERROR - Failed to add triples for ex_comp:4 -> ex_comp:18: Subject (rdflib.term.URIRef('ex_comp:4'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:18')) must be an rdflib term
+2025-04-25 14:25:30,836 - ERROR - Failed to add triples for ex_comp:81 -> ex_comp:55: Subject (rdflib.term.URIRef('ex_comp:81'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:55')) must be an rdflib term
+2025-04-25 14:25:30,837 - ERROR - Failed to add triples for ex_comp:81 -> ex_comp:35: Subject (rdflib.term.URIRef('ex_comp:81'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:35')) must be an rdflib term
+2025-04-25 14:25:30,837 - ERROR - Failed to add triples for ex_comp:81 -> ex_comp:41: Subject (rdflib.term.URIRef('ex_comp:81'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:41')) must be an rdflib term
+2025-04-25 14:25:30,838 - INFO - Processed 20 companies
+2025-04-25 14:25:30,838 - ERROR - Failed to add triples for ex_comp:89 -> ex_comp:5: Subject (rdflib.term.URIRef('ex_comp:89'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:5')) must be an rdflib term
+2025-04-25 14:25:30,838 - ERROR - Failed to add triples for ex_comp:89 -> ex_comp:35: Subject (rdflib.term.URIRef('ex_comp:89'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:35')) must be an rdflib term
+2025-04-25 14:25:30,838 - ERROR - Failed to add triples for ex_comp:85 -> ex_comp:89: Subject (rdflib.term.URIRef('ex_comp:85'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:89')) must be an rdflib term
+2025-04-25 14:25:30,839 - ERROR - Failed to add triples for ex_comp:85 -> ex_comp:23: Subject (rdflib.term.URIRef('ex_comp:85'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:23')) must be an rdflib term
+2025-04-25 14:25:30,839 - ERROR - Failed to add triples for ex_comp:97 -> ex_comp:82: Subject (rdflib.term.URIRef('ex_comp:97'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:82')) must be an rdflib term
+2025-04-25 14:25:30,839 - ERROR - Failed to add triples for ex_comp:44 -> ex_comp:40: Subject (rdflib.term.URIRef('ex_comp:44'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:40')) must be an rdflib term
+2025-04-25 14:25:30,840 - ERROR - Failed to add triples for ex_comp:52 -> ex_comp:13: Subject (rdflib.term.URIRef('ex_comp:52'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:13')) must be an rdflib term
+2025-04-25 14:25:30,840 - ERROR - Failed to add triples for ex_comp:11 -> ex_comp:50: Subject (rdflib.term.URIRef('ex_comp:11'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:50')) must be an rdflib term
+2025-04-25 14:25:30,840 - ERROR - Failed to add triples for ex_comp:11 -> ex_comp:53: Subject (rdflib.term.URIRef('ex_comp:11'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:53')) must be an rdflib term
+2025-04-25 14:25:30,841 - ERROR - Failed to add triples for ex_comp:88 -> ex_comp:91: Subject (rdflib.term.URIRef('ex_comp:88'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:91')) must be an rdflib term
+2025-04-25 14:25:30,841 - ERROR - Failed to add triples for ex_comp:50 -> ex_comp:32: Subject (rdflib.term.URIRef('ex_comp:50'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:32')) must be an rdflib term
+2025-04-25 14:25:30,841 - ERROR - Failed to add triples for ex_comp:50 -> ex_comp:33: Subject (rdflib.term.URIRef('ex_comp:50'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:33')) must be an rdflib term
+2025-04-25 14:25:30,842 - ERROR - Failed to add triples for ex_comp:56 -> ex_comp:92: Subject (rdflib.term.URIRef('ex_comp:56'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:92')) must be an rdflib term
+2025-04-25 14:25:30,842 - ERROR - Failed to add triples for ex_comp:13 -> ex_comp:95: Subject (rdflib.term.URIRef('ex_comp:13'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:95')) must be an rdflib term
+2025-04-25 14:25:30,842 - INFO - Processed 30 companies
+2025-04-25 14:25:30,842 - ERROR - Failed to add triples for ex_comp:35 -> ex_comp:54: Subject (rdflib.term.URIRef('ex_comp:35'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:54')) must be an rdflib term
+2025-04-25 14:25:30,843 - ERROR - Failed to add triples for ex_comp:35 -> ex_comp:15: Subject (rdflib.term.URIRef('ex_comp:35'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:15')) must be an rdflib term
+2025-04-25 14:25:30,843 - ERROR - Failed to add triples for ex_comp:38 -> ex_comp:11: Subject (rdflib.term.URIRef('ex_comp:38'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:11')) must be an rdflib term
+2025-04-25 14:25:30,843 - ERROR - Failed to add triples for ex_comp:38 -> ex_comp:72: Subject (rdflib.term.URIRef('ex_comp:38'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:72')) must be an rdflib term
+2025-04-25 14:25:30,844 - ERROR - Failed to add triples for ex_comp:28 -> ex_comp:57: Subject (rdflib.term.URIRef('ex_comp:28'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:57')) must be an rdflib term
+2025-04-25 14:25:30,844 - ERROR - Failed to add triples for ex_comp:37 -> ex_comp:60: Subject (rdflib.term.URIRef('ex_comp:37'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:60')) must be an rdflib term
+2025-04-25 14:25:30,844 - ERROR - Failed to add triples for ex_comp:37 -> ex_comp:67: Subject (rdflib.term.URIRef('ex_comp:37'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:67')) must be an rdflib term
+2025-04-25 14:25:30,845 - ERROR - Failed to add triples for ex_comp:62 -> ex_comp:72: Subject (rdflib.term.URIRef('ex_comp:62'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:72')) must be an rdflib term
+2025-04-25 14:25:30,845 - ERROR - Failed to add triples for ex_comp:62 -> ex_comp:45: Subject (rdflib.term.URIRef('ex_comp:62'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:45')) must be an rdflib term
+2025-04-25 14:25:30,846 - ERROR - Failed to add triples for ex_comp:62 -> ex_comp:4: Subject (rdflib.term.URIRef('ex_comp:62'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:4')) must be an rdflib term
+2025-04-25 14:25:30,846 - ERROR - Failed to add triples for ex_comp:58 -> ex_comp:7: Subject (rdflib.term.URIRef('ex_comp:58'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:7')) must be an rdflib term
+2025-04-25 14:25:30,846 - ERROR - Failed to add triples for ex_comp:58 -> ex_comp:6: Subject (rdflib.term.URIRef('ex_comp:58'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:6')) must be an rdflib term
+2025-04-25 14:25:30,846 - ERROR - Failed to add triples for ex_comp:3 -> ex_comp:25: Subject (rdflib.term.URIRef('ex_comp:3'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:25')) must be an rdflib term
+2025-04-25 14:25:30,847 - ERROR - Failed to add triples for ex_comp:95 -> ex_comp:22: Subject (rdflib.term.URIRef('ex_comp:95'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:22')) must be an rdflib term
+2025-04-25 14:25:30,847 - ERROR - Failed to add triples for ex_comp:23 -> ex_comp:100: Subject (rdflib.term.URIRef('ex_comp:23'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:100')) must be an rdflib term
+2025-04-25 14:25:30,847 - ERROR - Failed to add triples for ex_comp:23 -> ex_comp:16: Subject (rdflib.term.URIRef('ex_comp:23'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:16')) must be an rdflib term
+2025-04-25 14:25:30,847 - ERROR - Failed to add triples for ex_comp:61 -> ex_comp:40: Subject (rdflib.term.URIRef('ex_comp:61'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:40')) must be an rdflib term
+2025-04-25 14:25:30,848 - INFO - Processed 40 companies
+2025-04-25 14:25:30,848 - ERROR - Failed to add triples for ex_comp:80 -> ex_comp:95: Subject (rdflib.term.URIRef('ex_comp:80'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:95')) must be an rdflib term
+2025-04-25 14:25:30,848 - ERROR - Failed to add triples for ex_comp:19 -> ex_comp:97: Subject (rdflib.term.URIRef('ex_comp:19'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:97')) must be an rdflib term
+2025-04-25 14:25:30,849 - ERROR - Failed to add triples for ex_comp:19 -> ex_comp:38: Subject (rdflib.term.URIRef('ex_comp:19'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:38')) must be an rdflib term
+2025-04-25 14:25:30,849 - ERROR - Failed to add triples for ex_comp:19 -> ex_comp:2: Subject (rdflib.term.URIRef('ex_comp:19'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:2')) must be an rdflib term
+2025-04-25 14:25:30,850 - ERROR - Failed to add triples for ex_comp:27 -> ex_comp:24: Subject (rdflib.term.URIRef('ex_comp:27'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:24')) must be an rdflib term
+2025-04-25 14:25:30,850 - ERROR - Failed to add triples for ex_comp:27 -> ex_comp:40: Subject (rdflib.term.URIRef('ex_comp:27'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:40')) must be an rdflib term
+2025-04-25 14:25:30,850 - ERROR - Failed to add triples for ex_comp:27 -> ex_comp:48: Subject (rdflib.term.URIRef('ex_comp:27'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:48')) must be an rdflib term
+2025-04-25 14:25:30,851 - ERROR - Failed to add triples for ex_comp:65 -> ex_comp:12: Subject (rdflib.term.URIRef('ex_comp:65'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:12')) must be an rdflib term
+2025-04-25 14:25:30,851 - ERROR - Failed to add triples for ex_comp:67 -> ex_comp:76: Subject (rdflib.term.URIRef('ex_comp:67'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:76')) must be an rdflib term
+2025-04-25 14:25:30,851 - ERROR - Failed to add triples for ex_comp:67 -> ex_comp:91: Subject (rdflib.term.URIRef('ex_comp:67'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:91')) must be an rdflib term
+2025-04-25 14:25:30,852 - ERROR - Failed to add triples for ex_comp:67 -> ex_comp:92: Subject (rdflib.term.URIRef('ex_comp:67'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:92')) must be an rdflib term
+2025-04-25 14:25:30,852 - ERROR - Failed to add triples for ex_comp:84 -> ex_comp:21: Subject (rdflib.term.URIRef('ex_comp:84'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:21')) must be an rdflib term
+2025-04-25 14:25:30,852 - ERROR - Failed to add triples for ex_comp:84 -> ex_comp:22: Subject (rdflib.term.URIRef('ex_comp:84'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:22')) must be an rdflib term
+2025-04-25 14:25:30,853 - ERROR - Failed to add triples for ex_comp:84 -> ex_comp:45: Subject (rdflib.term.URIRef('ex_comp:84'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:45')) must be an rdflib term
+2025-04-25 14:25:30,853 - ERROR - Failed to add triples for ex_comp:72 -> ex_comp:95: Subject (rdflib.term.URIRef('ex_comp:72'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:95')) must be an rdflib term
+2025-04-25 14:25:30,853 - ERROR - Failed to add triples for ex_comp:73 -> ex_comp:61: Subject (rdflib.term.URIRef('ex_comp:73'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:61')) must be an rdflib term
+2025-04-25 14:25:30,854 - ERROR - Failed to add triples for ex_comp:73 -> ex_comp:31: Subject (rdflib.term.URIRef('ex_comp:73'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:31')) must be an rdflib term
+2025-04-25 14:25:30,854 - ERROR - Failed to add triples for ex_comp:73 -> ex_comp:36: Subject (rdflib.term.URIRef('ex_comp:73'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:36')) must be an rdflib term
+2025-04-25 14:25:30,854 - ERROR - Failed to add triples for ex_comp:60 -> ex_comp:97: Subject (rdflib.term.URIRef('ex_comp:60'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:97')) must be an rdflib term
+2025-04-25 14:25:30,855 - ERROR - Failed to add triples for ex_comp:60 -> ex_comp:89: Subject (rdflib.term.URIRef('ex_comp:60'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:89')) must be an rdflib term
+2025-04-25 14:25:30,855 - ERROR - Failed to add triples for ex_comp:60 -> ex_comp:64: Subject (rdflib.term.URIRef('ex_comp:60'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:64')) must be an rdflib term
+2025-04-25 14:25:30,856 - ERROR - Failed to add triples for ex_comp:63 -> ex_comp:20: Subject (rdflib.term.URIRef('ex_comp:63'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:20')) must be an rdflib term
+2025-04-25 14:25:30,856 - ERROR - Failed to add triples for ex_comp:63 -> ex_comp:2: Subject (rdflib.term.URIRef('ex_comp:63'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:2')) must be an rdflib term
+2025-04-25 14:25:30,857 - INFO - Processed 50 companies
+2025-04-25 14:25:30,857 - ERROR - Failed to add triples for ex_comp:96 -> ex_comp:54: Subject (rdflib.term.URIRef('ex_comp:96'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:54')) must be an rdflib term
+2025-04-25 14:25:30,858 - ERROR - Failed to add triples for ex_comp:90 -> ex_comp:32: Subject (rdflib.term.URIRef('ex_comp:90'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:32')) must be an rdflib term
+2025-04-25 14:25:30,858 - ERROR - Failed to add triples for ex_comp:24 -> ex_comp:13: Subject (rdflib.term.URIRef('ex_comp:24'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:13')) must be an rdflib term
+2025-04-25 14:25:30,858 - ERROR - Failed to add triples for ex_comp:48 -> ex_comp:57: Subject (rdflib.term.URIRef('ex_comp:48'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:57')) must be an rdflib term
+2025-04-25 14:25:30,859 - ERROR - Failed to add triples for ex_comp:48 -> ex_comp:91: Subject (rdflib.term.URIRef('ex_comp:48'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:91')) must be an rdflib term
+2025-04-25 14:25:30,859 - ERROR - Failed to add triples for ex_comp:48 -> ex_comp:49: Subject (rdflib.term.URIRef('ex_comp:48'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:49')) must be an rdflib term
+2025-04-25 14:25:30,859 - ERROR - Failed to add triples for ex_comp:9 -> ex_comp:81: Subject (rdflib.term.URIRef('ex_comp:9'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:81')) must be an rdflib term
+2025-04-25 14:25:30,860 - ERROR - Failed to add triples for ex_comp:9 -> ex_comp:97: Subject (rdflib.term.URIRef('ex_comp:9'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:97')) must be an rdflib term
+2025-04-25 14:25:30,860 - ERROR - Failed to add triples for ex_comp:9 -> ex_comp:28: Subject (rdflib.term.URIRef('ex_comp:9'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:28')) must be an rdflib term
+2025-04-25 14:25:30,860 - ERROR - Failed to add triples for ex_comp:15 -> ex_comp:86: Subject (rdflib.term.URIRef('ex_comp:15'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:86')) must be an rdflib term
+2025-04-25 14:25:30,861 - ERROR - Failed to add triples for ex_comp:83 -> ex_comp:55: Subject (rdflib.term.URIRef('ex_comp:83'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:55')) must be an rdflib term
+2025-04-25 14:25:30,861 - ERROR - Failed to add triples for ex_comp:83 -> ex_comp:72: Subject (rdflib.term.URIRef('ex_comp:83'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:72')) must be an rdflib term
+2025-04-25 14:25:30,861 - ERROR - Failed to add triples for ex_comp:18 -> ex_comp:32: Subject (rdflib.term.URIRef('ex_comp:18'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:32')) must be an rdflib term
+2025-04-25 14:25:30,862 - ERROR - Failed to add triples for ex_comp:18 -> ex_comp:5: Subject (rdflib.term.URIRef('ex_comp:18'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:5')) must be an rdflib term
+2025-04-25 14:25:30,862 - ERROR - Failed to add triples for ex_comp:18 -> ex_comp:81: Subject (rdflib.term.URIRef('ex_comp:18'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:81')) must be an rdflib term
+2025-04-25 14:25:30,862 - ERROR - Failed to add triples for ex_comp:78 -> ex_comp:41: Subject (rdflib.term.URIRef('ex_comp:78'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:41')) must be an rdflib term
+2025-04-25 14:25:30,863 - ERROR - Failed to add triples for ex_comp:78 -> ex_comp:76: Subject (rdflib.term.URIRef('ex_comp:78'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:76')) must be an rdflib term
+2025-04-25 14:25:30,863 - ERROR - Failed to add triples for ex_comp:21 -> ex_comp:51: Subject (rdflib.term.URIRef('ex_comp:21'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:51')) must be an rdflib term
+2025-04-25 14:25:30,863 - INFO - Processed 60 companies
+2025-04-25 14:25:30,864 - ERROR - Failed to add triples for ex_comp:34 -> ex_comp:12: Subject (rdflib.term.URIRef('ex_comp:34'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:12')) must be an rdflib term
+2025-04-25 14:25:30,864 - ERROR - Failed to add triples for ex_comp:34 -> ex_comp:92: Subject (rdflib.term.URIRef('ex_comp:34'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:92')) must be an rdflib term
+2025-04-25 14:25:30,865 - ERROR - Failed to add triples for ex_comp:34 -> ex_comp:58: Subject (rdflib.term.URIRef('ex_comp:34'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:58')) must be an rdflib term
+2025-04-25 14:25:30,865 - ERROR - Failed to add triples for ex_comp:1 -> ex_comp:13: Subject (rdflib.term.URIRef('ex_comp:1'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:13')) must be an rdflib term
+2025-04-25 14:25:30,865 - ERROR - Failed to add triples for ex_comp:1 -> ex_comp:72: Subject (rdflib.term.URIRef('ex_comp:1'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:72')) must be an rdflib term
+2025-04-25 14:25:30,866 - ERROR - Failed to add triples for ex_comp:43 -> ex_comp:59: Subject (rdflib.term.URIRef('ex_comp:43'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:59')) must be an rdflib term
+2025-04-25 14:25:30,866 - ERROR - Failed to add triples for ex_comp:47 -> ex_comp:91: Subject (rdflib.term.URIRef('ex_comp:47'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:91')) must be an rdflib term
+2025-04-25 14:25:30,866 - ERROR - Failed to add triples for ex_comp:47 -> ex_comp:99: Subject (rdflib.term.URIRef('ex_comp:47'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:99')) must be an rdflib term
+2025-04-25 14:25:30,867 - ERROR - Failed to add triples for ex_comp:47 -> ex_comp:77: Subject (rdflib.term.URIRef('ex_comp:47'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:77')) must be an rdflib term
+2025-04-25 14:25:30,867 - ERROR - Failed to add triples for ex_comp:12 -> ex_comp:53: Subject (rdflib.term.URIRef('ex_comp:12'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:53')) must be an rdflib term
+2025-04-25 14:25:30,867 - ERROR - Failed to add triples for ex_comp:26 -> ex_comp:39: Subject (rdflib.term.URIRef('ex_comp:26'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:39')) must be an rdflib term
+2025-04-25 14:25:30,868 - ERROR - Failed to add triples for ex_comp:22 -> ex_comp:83: Subject (rdflib.term.URIRef('ex_comp:22'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:83')) must be an rdflib term
+2025-04-25 14:25:30,868 - ERROR - Failed to add triples for ex_comp:22 -> ex_comp:13: Subject (rdflib.term.URIRef('ex_comp:22'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:13')) must be an rdflib term
+2025-04-25 14:25:30,868 - ERROR - Failed to add triples for ex_comp:22 -> ex_comp:18: Subject (rdflib.term.URIRef('ex_comp:22'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:18')) must be an rdflib term
+2025-04-25 14:25:30,868 - ERROR - Failed to add triples for ex_comp:32 -> ex_comp:10: Subject (rdflib.term.URIRef('ex_comp:32'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:10')) must be an rdflib term
+2025-04-25 14:25:30,869 - ERROR - Failed to add triples for ex_comp:10 -> ex_comp:80: Subject (rdflib.term.URIRef('ex_comp:10'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:80')) must be an rdflib term
+2025-04-25 14:25:30,869 - ERROR - Failed to add triples for ex_comp:10 -> ex_comp:85: Subject (rdflib.term.URIRef('ex_comp:10'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:85')) must be an rdflib term
+2025-04-25 14:25:30,869 - ERROR - Failed to add triples for ex_comp:5 -> ex_comp:99: Subject (rdflib.term.URIRef('ex_comp:5'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:99')) must be an rdflib term
+2025-04-25 14:25:30,870 - INFO - Processed 70 companies
+2025-04-25 14:25:30,870 - ERROR - Failed to add triples for ex_comp:86 -> ex_comp:43: Subject (rdflib.term.URIRef('ex_comp:86'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:43')) must be an rdflib term
+2025-04-25 14:25:30,870 - ERROR - Failed to add triples for ex_comp:86 -> ex_comp:36: Subject (rdflib.term.URIRef('ex_comp:86'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:36')) must be an rdflib term
+2025-04-25 14:25:30,871 - ERROR - Failed to add triples for ex_comp:57 -> ex_comp:38: Subject (rdflib.term.URIRef('ex_comp:57'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:38')) must be an rdflib term
+2025-04-25 14:25:30,871 - ERROR - Failed to add triples for ex_comp:82 -> ex_comp:14: Subject (rdflib.term.URIRef('ex_comp:82'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:14')) must be an rdflib term
+2025-04-25 14:25:30,871 - ERROR - Failed to add triples for ex_comp:82 -> ex_comp:5: Subject (rdflib.term.URIRef('ex_comp:82'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:5')) must be an rdflib term
+2025-04-25 14:25:30,871 - ERROR - Failed to add triples for ex_comp:82 -> ex_comp:100: Subject (rdflib.term.URIRef('ex_comp:82'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:100')) must be an rdflib term
+2025-04-25 14:25:30,871 - ERROR - Failed to add triples for ex_comp:92 -> ex_comp:57: Subject (rdflib.term.URIRef('ex_comp:92'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:57')) must be an rdflib term
+2025-04-25 14:25:30,872 - ERROR - Failed to add triples for ex_comp:92 -> ex_comp:76: Subject (rdflib.term.URIRef('ex_comp:92'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:76')) must be an rdflib term
+2025-04-25 14:25:30,872 - ERROR - Failed to add triples for ex_comp:94 -> ex_comp:17: Subject (rdflib.term.URIRef('ex_comp:94'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:17')) must be an rdflib term
+2025-04-25 14:25:30,872 - ERROR - Failed to add triples for ex_comp:94 -> ex_comp:1: Subject (rdflib.term.URIRef('ex_comp:94'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:1')) must be an rdflib term
+2025-04-25 14:25:30,873 - ERROR - Failed to add triples for ex_comp:94 -> ex_comp:95: Subject (rdflib.term.URIRef('ex_comp:94'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:95')) must be an rdflib term
+2025-04-25 14:25:30,873 - ERROR - Failed to add triples for ex_comp:54 -> ex_comp:51: Subject (rdflib.term.URIRef('ex_comp:54'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:51')) must be an rdflib term
+2025-04-25 14:25:30,873 - ERROR - Failed to add triples for ex_comp:45 -> ex_comp:7: Subject (rdflib.term.URIRef('ex_comp:45'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:7')) must be an rdflib term
+2025-04-25 14:25:30,874 - ERROR - Failed to add triples for ex_comp:45 -> ex_comp:80: Subject (rdflib.term.URIRef('ex_comp:45'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:80')) must be an rdflib term
+2025-04-25 14:25:30,874 - ERROR - Failed to add triples for ex_comp:14 -> ex_comp:25: Subject (rdflib.term.URIRef('ex_comp:14'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:25')) must be an rdflib term
+2025-04-25 14:25:30,874 - ERROR - Failed to add triples for ex_comp:68 -> ex_comp:96: Subject (rdflib.term.URIRef('ex_comp:68'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:96')) must be an rdflib term
+2025-04-25 14:25:30,874 - ERROR - Failed to add triples for ex_comp:64 -> ex_comp:23: Subject (rdflib.term.URIRef('ex_comp:64'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:23')) must be an rdflib term
+2025-04-25 14:25:30,875 - ERROR - Failed to add triples for ex_comp:64 -> ex_comp:38: Subject (rdflib.term.URIRef('ex_comp:64'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:38')) must be an rdflib term
+2025-04-25 14:25:30,875 - INFO - Processed 80 companies
+2025-04-25 14:25:30,875 - ERROR - Failed to add triples for ex_comp:100 -> ex_comp:44: Subject (rdflib.term.URIRef('ex_comp:100'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:44')) must be an rdflib term
+2025-04-25 14:25:30,876 - ERROR - Failed to add triples for ex_comp:20 -> ex_comp:39: Subject (rdflib.term.URIRef('ex_comp:20'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:39')) must be an rdflib term
+2025-04-25 14:25:30,876 - ERROR - Failed to add triples for ex_comp:51 -> ex_comp:74: Subject (rdflib.term.URIRef('ex_comp:51'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:74')) must be an rdflib term
+2025-04-25 14:25:30,876 - ERROR - Failed to add triples for ex_comp:51 -> ex_comp:9: Subject (rdflib.term.URIRef('ex_comp:51'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:9')) must be an rdflib term
+2025-04-25 14:25:30,877 - ERROR - Failed to add triples for ex_comp:77 -> ex_comp:57: Subject (rdflib.term.URIRef('ex_comp:77'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:57')) must be an rdflib term
+2025-04-25 14:25:30,877 - ERROR - Failed to add triples for ex_comp:76 -> ex_comp:55: Subject (rdflib.term.URIRef('ex_comp:76'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:55')) must be an rdflib term
+2025-04-25 14:25:30,877 - ERROR - Failed to add triples for ex_comp:76 -> ex_comp:19: Subject (rdflib.term.URIRef('ex_comp:76'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:19')) must be an rdflib term
+2025-04-25 14:25:30,878 - ERROR - Failed to add triples for ex_comp:76 -> ex_comp:25: Subject (rdflib.term.URIRef('ex_comp:76'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:25')) must be an rdflib term
+2025-04-25 14:25:30,878 - ERROR - Failed to add triples for ex_comp:33 -> ex_comp:43: Subject (rdflib.term.URIRef('ex_comp:33'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:43')) must be an rdflib term
+2025-04-25 14:25:30,878 - ERROR - Failed to add triples for ex_comp:33 -> ex_comp:93: Subject (rdflib.term.URIRef('ex_comp:33'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:93')) must be an rdflib term
+2025-04-25 14:25:30,879 - ERROR - Failed to add triples for ex_comp:33 -> ex_comp:58: Subject (rdflib.term.URIRef('ex_comp:33'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:58')) must be an rdflib term
+2025-04-25 14:25:30,879 - ERROR - Failed to add triples for ex_comp:6 -> ex_comp:82: Subject (rdflib.term.URIRef('ex_comp:6'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:82')) must be an rdflib term
+2025-04-25 14:25:30,879 - ERROR - Failed to add triples for ex_comp:6 -> ex_comp:95: Subject (rdflib.term.URIRef('ex_comp:6'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:95')) must be an rdflib term
+2025-04-25 14:25:30,880 - ERROR - Failed to add triples for ex_comp:36 -> ex_comp:77: Subject (rdflib.term.URIRef('ex_comp:36'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:77')) must be an rdflib term
+2025-04-25 14:25:30,883 - ERROR - Failed to add triples for ex_comp:53 -> ex_comp:20: Subject (rdflib.term.URIRef('ex_comp:53'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:20')) must be an rdflib term
+2025-04-25 14:25:30,886 - ERROR - Failed to add triples for ex_comp:7 -> ex_comp:79: Subject (rdflib.term.URIRef('ex_comp:7'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:79')) must be an rdflib term
+2025-04-25 14:25:30,886 - ERROR - Failed to add triples for ex_comp:7 -> ex_comp:54: Subject (rdflib.term.URIRef('ex_comp:7'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:54')) must be an rdflib term
+2025-04-25 14:25:30,887 - INFO - Processed 90 companies
+2025-04-25 14:25:30,888 - ERROR - Failed to add triples for ex_comp:8 -> ex_comp:78: Subject (rdflib.term.URIRef('ex_comp:8'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:78')) must be an rdflib term
+2025-04-25 14:25:30,889 - ERROR - Failed to add triples for ex_comp:40 -> ex_comp:8: Subject (rdflib.term.URIRef('ex_comp:40'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:8')) must be an rdflib term
+2025-04-25 14:25:30,889 - ERROR - Failed to add triples for ex_comp:40 -> ex_comp:74: Subject (rdflib.term.URIRef('ex_comp:40'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:74')) must be an rdflib term
+2025-04-25 14:25:30,890 - ERROR - Failed to add triples for ex_comp:66 -> ex_comp:55: Subject (rdflib.term.URIRef('ex_comp:66'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:55')) must be an rdflib term
+2025-04-25 14:25:30,893 - ERROR - Failed to add triples for ex_comp:66 -> ex_comp:1: Subject (rdflib.term.URIRef('ex_comp:66'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:1')) must be an rdflib term
+2025-04-25 14:25:30,898 - ERROR - Failed to add triples for ex_comp:69 -> ex_comp:39: Subject (rdflib.term.URIRef('ex_comp:69'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:39')) must be an rdflib term
+2025-04-25 14:25:30,899 - ERROR - Failed to add triples for ex_comp:69 -> ex_comp:5: Subject (rdflib.term.URIRef('ex_comp:69'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:5')) must be an rdflib term
+2025-04-25 14:25:30,902 - ERROR - Failed to add triples for ex_comp:70 -> ex_comp:50: Subject (rdflib.term.URIRef('ex_comp:70'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:50')) must be an rdflib term
+2025-04-25 14:25:30,906 - ERROR - Failed to add triples for ex_comp:70 -> ex_comp:33: Subject (rdflib.term.URIRef('ex_comp:70'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:33')) must be an rdflib term
+2025-04-25 14:25:30,908 - ERROR - Failed to add triples for ex_comp:39 -> ex_comp:43: Subject (rdflib.term.URIRef('ex_comp:39'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:43')) must be an rdflib term
+2025-04-25 14:25:30,909 - ERROR - Failed to add triples for ex_comp:39 -> ex_comp:94: Subject (rdflib.term.URIRef('ex_comp:39'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:94')) must be an rdflib term
+2025-04-25 14:25:30,911 - ERROR - Failed to add triples for ex_comp:74 -> ex_comp:33: Subject (rdflib.term.URIRef('ex_comp:74'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:33')) must be an rdflib term
+2025-04-25 14:25:30,911 - ERROR - Failed to add triples for ex_comp:74 -> ex_comp:72: Subject (rdflib.term.URIRef('ex_comp:74'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:72')) must be an rdflib term
+2025-04-25 14:25:30,912 - ERROR - Failed to add triples for ex_comp:74 -> ex_comp:5: Subject (rdflib.term.URIRef('ex_comp:74'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:5')) must be an rdflib term
+2025-04-25 14:25:30,912 - ERROR - Failed to add triples for ex_comp:31 -> ex_comp:87: Subject (rdflib.term.URIRef('ex_comp:31'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:87')) must be an rdflib term
+2025-04-25 14:25:30,914 - ERROR - Failed to add triples for ex_comp:99 -> ex_comp:23: Subject (rdflib.term.URIRef('ex_comp:99'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:23')) must be an rdflib term
+2025-04-25 14:25:30,914 - ERROR - Failed to add triples for ex_comp:16 -> ex_comp:97: Subject (rdflib.term.URIRef('ex_comp:16'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:97')) must be an rdflib term
+2025-04-25 14:25:30,915 - ERROR - Failed to add triples for ex_comp:16 -> ex_comp:14: Subject (rdflib.term.URIRef('ex_comp:16'), rdflib.term.URIRef('http://example.org/ownership/ownsCompany'), rdflib.term.URIRef('ex_comp:14')) must be an rdflib term
+2025-04-25 14:25:30,916 - INFO - Processed 100 companies
+2025-04-25 14:25:30,916 - INFO - Saving updated graph to data/Augemented_Testdataset.ttl
+2025-04-25 14:25:30,935 - INFO - Done. Ownership edges added and file saved.
+2025-04-25 14:31:14,073 - INFO - Loading RDF data from data/Testdataset.rdf
+2025-04-25 14:31:14,154 - INFO - Extracting company URIs from the graph
+2025-04-25 14:31:14,178 - INFO - Found 100 companies
+2025-04-25 14:31:14,179 - INFO - Generating synthetic ownership relationships
+2025-04-25 14:31:14,180 - INFO - Processed 10 companies
+2025-04-25 14:31:14,181 - INFO - Processed 20 companies
+2025-04-25 14:31:14,182 - INFO - Processed 30 companies
+2025-04-25 14:31:14,184 - INFO - Processed 40 companies
+2025-04-25 14:31:14,184 - INFO - Processed 50 companies
+2025-04-25 14:31:14,186 - INFO - Processed 60 companies
+2025-04-25 14:31:14,187 - INFO - Processed 70 companies
+2025-04-25 14:31:14,188 - INFO - Processed 80 companies
+2025-04-25 14:31:14,189 - INFO - Processed 90 companies
+2025-04-25 14:31:14,190 - INFO - Processed 100 companies
+2025-04-25 14:31:14,191 - INFO - Saving updated graph to data/Augemented_Testdataset.ttl
+2025-04-25 14:31:14,219 - INFO - Done. Ownership edges added and file saved.
+2025-04-25 14:33:29,384 - INFO - Loading RDF data from data/Testdataset.rdf
+2025-04-25 14:33:29,411 - INFO - Extracting company URIs from the graph
+2025-04-25 14:33:29,437 - INFO - Found 100 companies
+2025-04-25 14:33:29,438 - INFO - Generating synthetic ownership edges
+2025-04-25 14:33:29,439 - INFO - Processed 10 companies
+2025-04-25 14:33:29,440 - INFO - Processed 20 companies
+2025-04-25 14:33:29,440 - INFO - Processed 30 companies
+2025-04-25 14:33:29,441 - INFO - Processed 40 companies
+2025-04-25 14:33:29,442 - INFO - Processed 50 companies
+2025-04-25 14:33:29,443 - INFO - Processed 60 companies
+2025-04-25 14:33:29,443 - INFO - Processed 70 companies
+2025-04-25 14:33:29,444 - INFO - Processed 80 companies
+2025-04-25 14:33:29,444 - INFO - Processed 90 companies
+2025-04-25 14:33:29,445 - INFO - Processed 100 companies
+2025-04-25 14:33:29,446 - INFO - Saving updated graph to data/Augemented_Testdataset.ttl
+2025-04-25 14:33:29,468 - INFO - Done. Ownership edges added and file saved.
