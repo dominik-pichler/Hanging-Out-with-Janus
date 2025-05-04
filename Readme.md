@@ -7,7 +7,7 @@
    /`.          ,'-`----Y   |
   (            ;        |   '
   |  ,-.    ,-'         |  /
-  |  | (   |        hjw | /
+  |  | (   |            | /
   )  |  \  `.___________|/
   `--'   `--'
 ```
@@ -31,7 +31,7 @@ I noticed some issues when scanning the container using `grypher`. Those issues 
 
 ## Communication with the DB
 
-You can simply start another container, that sets up a gramlin console as a client via: 
+You can simply start another container, that sets up a gremlin console as a client via: 
 
 ```
 docker run --rm --link janusgraph-default:janusgraph -e GREMLIN_REMOTE_HOSTS=janusgraph \
@@ -40,21 +40,141 @@ docker run --rm --link janusgraph-default:janusgraph -e GREMLIN_REMOTE_HOSTS=jan
 
 In case you're extra curious, you can play around with it, using the [Tinkerpop Tutorial](https://tinkerpop.apache.org/docs/3.7.3/tutorials/getting-started/).
 
-Alternatively you can also use UI Tools like 
-- G.V()
+Alternatively you can also use GUI Tools like 
+- [G.V()](https://gdotv.com/)
+
+
+## Inserting our testdataset
+To insert our company dataset, I've built a small script that takes a *.ttl/ *.RDF File as Input  and inserts it into a local Janus Graph Instance that is available at `http://127.0.0.1:8182` (which is what happens by default wen you set up a local docker container as explained above)
+
+You then only have to install all requirements that can be found in the `requirements.txt`.
+After that you can use to populate the graph with the original test data via `RDF_Insert_Janus.ipynb`. Just keep in mind that last section (adding ownership) adds augmentations / artifically generated data to simulate a more realistic usecase.
+
+
+
+If everything worked correctly, your graph should look something like the following: 
+![image.png](resources/image.png)
+
+
+Note: For future notice: The labels of the vertexes will be changed to the company names/adresses/employee names - but do to time constraints, I was not able to do this for now :) 
+
+
+## Quering our testdata
+After successfully populating the graph with our testdata, queries can directly be executed to fetch data from the graph. Up to now, I have experiemented with two different approaches: 
+- Python 
+- Gremlin 
+
+For simplicity, I stick to gremlin for now. Quering the graph(s) with gremlin can be done directly trough a gremlin console, as discribed above, or through a GUI Tool like G.V(). 
+I'd have tried and succedded with both, but prefered G.V(). as it provides innate tools for graph exploration and already visualizes it. 
+
+
+Additionally, gremlin commands can also be exectute/communicated via python, but for now, i have not tested this approach. 
+
+
+
+For our testdata, I would advice to use the G.V() Exploration tool. Alterantively the following queries return all data that is stored in the graph. As we use a small dataset for testing, running those commands should not cause any issues. 
+
+
+#### Fetching all nodes/vertices
+```gremlin
+g.V()
+```
+
+This should yield something like: 
+
+```json
+[ {
+  "id" : 552992,
+  "label" : "Entity",
+  "properties" : {
+    "hasPLZ" : "20095",
+    "hasCity" : "Hamburg.",
+    "hasStreet" : "Domstraße 19",
+    "uri" : "ex_addr:63"
+  }
+}, {
+  "id" : 557088,
+  "label" : "ex_comp:62",
+  "properties" : {
+    "hasName" : "LuMa Projektentwicklungs-GmbH",
+    "hasFNR" : "H1101_H1101_HRB33484",
+    "uri" : "ex_comp:62"
+  }
+},
+...
+```
+
+#### Fetch nodes with a specific label
+```gremlin
+g.V().hasLabel('person').valueMap(True)
+```
+
+
+#### Fetching all edges
+```gremlin
+g.E()
+```
+This should yield something like: 
+
+```json
+[ {
+  "label" : "hasAddress",
+  "id" : "f75w-bxuo-5jp-bofc",
+  "properties" : { },
+  "outVertexId" : 557088,
+  "inVertexId" : 544872
+}, {
+  "label" : "hasAddress",
+  "id" : "frb8-c7c0-5jp-dfnc",
+  "properties" : { },
+  "outVertexId" : 569376,
+  "inVertexId" : 626808
+}, {
+  "label" : "weighted_connection",
+  "id" : "gkjo-cahs-4t1x-d660",
+  "properties" : {
+    "weight" : 0.07
+  },
+...
+```
+
+
+#### Delete everything in the graph 
+```gremlin
+g.V().drop().iterate()
+```
+
+
+
+
+Have fun :) 
+
+
+
+
+
+
+
+
+
+
+
+
+---
+# General notes
 
 
 ## Populate Janus with RDF
 For this purpose, I found many suitable approaches. Due to the project requirements, I sticked to a simple Bulk-Load. 
 
-#### Bulk Loading
-    - Preprocessing RDF Data: Convert RDF data (e.g., Turtle or RDF/JSON) into a format compatible with JanusGraph, such as CSV or JSON.
+#### General Bulk Loading
+  - Preprocessing RDF Data: Convert RDF data (e.g., Turtle or RDF/JSON) into a format compatible with JanusGraph, such as CSV or JSON.
 
-    - Enable Batch Loading: Set storage.batch-loading=true in the configuration file to optimize bulk loading performance.
+  - Enable Batch Loading: Set storage.batch-loading=true in the configuration file to optimize bulk loading performance.
 
-    - Parallelization: Use Hadoop-Gremlin or other parallelization techniques to load large datasets efficiently.
+  - Parallelization: Use Hadoop-Gremlin or other parallelization techniques to load large datasets efficiently.
 
-    - Load Vertices and Edges Separately: First load vertex data, followed by edge data, ensuring consistency between IDs.
+  - Load Vertices and Edges Separately: First load vertex data, followed by edge data, ensuring consistency between IDs.
 
 
 
@@ -105,6 +225,8 @@ with open('data.csv') as file:
 
 ### Indexing
 By default  Graph indices are automatically chosen by JanusGraph to answer which ask for all vertices $(g.V)$ or all edges $(g.E)$ that satisfy one or multiple constraints (e.g. has or interval).
+
+
 
 
 ## Python and Janus
