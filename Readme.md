@@ -34,6 +34,12 @@ I noticed some issues when scanning the container using `grypher`. Those issues 
 You can simply start another container, that sets up a gremlin console as a client via: 
 
 ```
+
+docker build -f ./Dockerfile-gremlin-console -t gremlin-console:3.2.5 --build-arg tinkerpopVersion=3.2.5 [--build-arg https_proxy=$https_proxy] .
+```
+
+
+```
 docker run --rm --link janusgraph-default:janusgraph -e GREMLIN_REMOTE_HOSTS=janusgraph \
     -it janusgraph/janusgraph:latest ./bin/gremlin.sh
 ```
