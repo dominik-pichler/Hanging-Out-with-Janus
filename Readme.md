@@ -13,7 +13,7 @@
 ```
 
 While Neo4j is fun, it's pricing isnt. But fortunately Open Souce is and hence this repo is used to setup a local Janus Graph DB, populate it with company data that can optionally be augmented by syntetically generated data
-
+--
 
 # How to use Janus Graph DB 
 
