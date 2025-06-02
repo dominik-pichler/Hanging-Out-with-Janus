@@ -235,6 +235,155 @@ By default  Graph indices are automatically chosen by JanusGraph to answer which
 
 
 
+
+# Quering Fun! 
+
+# === Gremlin-Python Example Queries for JanusGraph ===
+
+# 1. All companies in "IT" with equity ratio > 0.5
+
+```python
+high_equity_companies = (
+    g.V().hasLabel('Firma')
+    .has('Gewerbezweig', 'IT')
+    .has('Dummy_Eigenkapitalquote', gt(0.5))
+    .valueMap()
+    .toList()
+)
+```
+
+# 2. People who work as CEO and their companies
+```
+ceos = (
+    g.V().hasLabel('Person')
+    .outE('arbeitet_bei').has('Funktion', 'CEO')
+    .inV().valueMap('Firmenname')
+    .toList()
+)
+```
+# 3. Addresses used by more than one company
+```
+shared_addresses = (
+    g.V().hasLabel('Adresse')
+    .in_('hat_adresse')
+    .groupCount().by(__.valueMap('Ort', 'Straße'))
+    .unfold().filter(__.select(values).is_(gt(1)))
+    .select(keys)
+    .toList()
+)
+```
+
+# 4. Total ownership percentage for a company with FNR="123"
+```
+total_ownership = (
+    g.V().has('Firma', 'FNR', '123')
+    .inE('beteiligt_an').values('Prozent')
+    .sum()
+    .next()
+)
+print(f"Total ownership: {total_ownership}%")
+```
+
+# 5. Indirect ownership chains starting from FNR="A"
+```
+chain = (
+    g.V().has('Firma', 'FNR', 'A')
+    .repeat(__.out('beteiligt_an')).times(2)
+    .emit().path().by('FNR')
+    .toList()
+)
+```
+
+# 6. Employees and their roles for company FNR="456"
+```
+employees = (
+    g.V().has('Firma', 'FNR', '456')
+    .in_('arbeitet_bei')
+    .project('Name', 'Role')
+      .by(__.values('Name'))
+      .by(__.inE('arbeitet_bei').values('Funktion'))
+    .toList()
+)
+```
+# 7. Companies without an address
+```
+no_address = (
+    g.V().hasLabel('Firma')
+    .not_(__.out('hat_adresse'))
+    .valueMap('Firmenname', 'FNR')
+    .toList()
+)
+```
+# 8. Companies that (directly or indirectly) own themselves
+```
+loops = (
+    g.V().hasLabel('Firma')
+    .where(__.out('beteiligt_an').loops().is_(1))
+    .valueMap('FNR')
+    .toList()
+)
+```
+# 9. Top 5 companies by Dummy_Bilanzsumme
+```
+top_companies = (
+    g.V().hasLabel('Firma')
+    .order().by('Dummy_Bilanzsumme', decr)
+    .limit(5)
+    .valueMap('Firmenname', 'Dummy_Bilanzsumme')
+    .toList()
+)
+```
+# 10. People who work at more than one company
+
+```
+multi_company_people = (
+    g.V().hasLabel('Person')
+    .where(__.out('arbeitet_bei').count().is_(gt(1)))
+    .valueMap('Name')
+    .toList()
+)
+```
+# 11. Companies owning others in the same industry
+```
+competitor_ownership = (
+    g.V().hasLabel('Firma').as_('a')
+    .out('beteiligt_an').hasLabel('Firma').as_('b')
+    .where('a', eq('b'))
+      .by('Gewerbezweig')
+    .select('a', 'b')
+      .by('Firmenname')
+      .by('Firmenname')
+    .toList()
+)
+```
+# 12. Addresses with the most companies
+
+```
+busy_addresses = (
+    g.V().hasLabel('Adresse')
+    .in_('hat_adresse')
+    .groupCount().by(__.values('Ort'))
+    .unfold().order().by(values, decr)
+    .limit(3)
+    .toList()
+)
+```
+# 13. Export company ownership network for visualization
+
+```
+ownership_graph = (
+    g.V().hasLabel('Firma')
+    .project('Company', 'Owns')
+      .by(__.valueMap('Firmenname', 'FNR'))
+      .by(__.out('beteiligt_an')
+           .project('Target', 'Percentage')
+             .by(__.valueMap('Firmenname'))
+             .by(__.inE('beteiligt_an').values('Prozent')))
+    .toList()
+)
+```
+
+
 ## Python and Janus
 
 

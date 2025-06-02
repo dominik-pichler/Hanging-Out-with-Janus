@@ -6,9 +6,9 @@ num_rows = 1000
 firmenname = [f"Firma_{i}" for i in range(1, num_rows+1)]
 fnr = [f"FNR_{random.randint(1000, 9999)}" for _ in range(num_rows)]
 staat = [random.choice(["Österreich"]) for _ in range(num_rows)]
-orte = [random.choice(["Linz", "Wien", "Salzburg", "Redlham", "Gmunden", "Amstetten", "Guntramsdorf"]) for _ in range(num_rows)]
-plz = [str(random.randint(10000, 99999)) for _ in range(num_rows)]
-strasse = [f"Straße_{random.randint(1, 100)}" for _ in range(num_rows)]
+orte = [random.choice(["Linz", "Wien", "Salzburg"]) for _ in range(num_rows)]
+plz = [str(random.randint(1, 10)) for _ in range(num_rows)]
+strasse = [f"Straße_{random.randint(1, 20)}" for _ in range(num_rows)]
 gewerbezweig = [random.choice(["IT", "Handel", "Produktion", "Dienstleistung", "Finanzen"]) for _ in range(num_rows)]
 funktion = [random.choice(["Geschäftsführer"]) for _ in range(num_rows)]
 name = [f"Name_{i}" for i in range(1, num_rows+1)]
@@ -72,9 +72,9 @@ df = pd.DataFrame({
     "Dummy_Bilanzsumme": dummy_bilanzsumme
 })
 
-csv_filename = "data/FBU_Testfaelle.csv"
+csv_filename = "../data/FBU_Testfaelle.csv"
 df.to_csv(csv_filename, index=False)
 
 # Speichern der Beteiligungsstruktur
 beteiligungen_df = pd.DataFrame(beteiligungen)
-beteiligungen_df.to_csv("beteiligungen.csv", index=False)
+beteiligungen_df.to_csv("../data/beteiligungen.csv", index=False)
